@@ -1,0 +1,1735 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Default screen margins, per the Android Design guidelines. -->
+    <dimen name="text_message_margin_vertical">8dp</dimen>
+    <dimen name="button_card_radius">28dp</dimen>
+    <dimen name="ellipsis_margin">5dp</dimen>
+    <dimen name="iban_list_height_350dp">350dp</dimen>
+
+    <dimen name="app_bar_layout_height">72dp</dimen>
+    <dimen name="ftf_browser_app_bar_layout_height">60dp</dimen>
+    <dimen name="ftf_app_bar_layout_height">88dp</dimen>
+    <dimen name="jamiyah_app_bar_layout_height">88dp</dimen>
+    <dimen name="jamiyah_payment_details_marginTop">100dp</dimen>
+
+    <dimen name="ila_text_input_field_height">40dp</dimen>
+    <dimen name="toolbar_imageSize">45dp</dimen>
+    <dimen name="app_bar_top_padding">0dp</dimen>
+    <dimen name="toolbar_end_padding">72dp</dimen>
+    <dimen name="toolbar_icon_size">48dp</dimen>
+    <dimen name="toolbar_icon_padding">12dp</dimen>
+    <dimen name="edit_beneficiary_icon_size">26dp</dimen>
+    <dimen name="activity_horizontal_margin">16dp</dimen>
+    <dimen name="activity_vertical_margin">16dp</dimen>
+    <dimen name="default_text_width">240dp</dimen>
+    <dimen name="bottom_bar_icon_size">32dp</dimen>
+    <dimen name="bottom_bar_icon_margin_bottom">4dp</dimen>
+    <dimen name="bottom_bar_icon_increased_margin_bottom">8dp</dimen>
+    <dimen name="bottom_bar_size">70dp</dimen>
+    <dimen name="bottom_bar_margin_horizontal">8dp</dimen>
+    <dimen name="bottom_bar_padding_bottom">15.5dp</dimen>
+    <dimen name="status_bar_size">24dp</dimen>
+
+    <dimen name="default_half_margin">8dp</dimen>
+    <dimen name="padding_3dp">3dp</dimen>
+    <dimen name="padding_4dp">4dp</dimen>
+    <dimen name="padding_6dp">6dp</dimen>
+    <dimen name="padding_7dp">7dp</dimen>
+    <dimen name="padding_8dp">8dp</dimen>
+    <dimen name="padding_10dp">10dp</dimen>
+    <dimen name="padding_12dp">12dp</dimen>
+    <dimen name="padding_14dp">14dp</dimen>
+    <dimen name="padding_16dp">16dp</dimen>
+    <dimen name="padding_18dp">18dp</dimen>
+    <dimen name="padding_24dp">24dp</dimen>
+    <dimen name="padding_26dp">26dp</dimen>
+    <dimen name="padding_32dp">32dp</dimen>
+    <dimen name="padding_35dp">35dp</dimen>
+    <dimen name="padding_48dp">48dp</dimen>
+    <dimen name="debit_show_detail_border">0.5dp</dimen>
+    <dimen name="margin_2dp">2dp</dimen>
+    <dimen name="margin_3dp">3dp</dimen>
+    <dimen name="margin_4dp">4dp</dimen>
+    <dimen name="margin_5dp">5dp</dimen>
+    <dimen name="margin_6dp">6dp</dimen>
+    <dimen name="margin_7dp">7dp</dimen>
+    <dimen name="margin_8dp">8dp</dimen>
+    <dimen name="margin_12dp">12dp</dimen>
+    <dimen name="margin_10dp">10dp</dimen>
+    <dimen name="margin_11dp">11dp</dimen>
+    <dimen name="margin_15dp">15dp</dimen>
+    <dimen name="margin_14dp">14dp</dimen>
+    <dimen name="margin_16dp">16dp</dimen>
+    <dimen name="margin_18dp">18dp</dimen>
+    <dimen name="margin_19dp">19dp</dimen>
+    <dimen name="margin_20dp">20dp</dimen>
+    <dimen name="margin_21dp">21dp</dimen>
+    <dimen name="margin_22dp">22dp</dimen>
+    <dimen name="margin_23dp">23dp</dimen>
+    <dimen name="margin_24dp">24dp</dimen>
+    <dimen name="margin_25dp">25dp</dimen>
+    <dimen name="margin_26dp">26dp</dimen>
+    <dimen name="margin_28dp">28dp</dimen>
+    <dimen name="margin_30dp">30dp</dimen>
+    <dimen name="margin_32dp">32dp</dimen>
+    <dimen name="margin_37dp">37dp</dimen>
+    <dimen name="margin_39dp">39dp</dimen>
+    <dimen name="margin_33dp">33dp</dimen>
+    <dimen name="margin_35dp">35dp</dimen>
+    <dimen name="margin_36dp">36dp</dimen>
+    <dimen name="margin_38dp">38dp</dimen>
+    <dimen name="margin_40dp">40dp</dimen>
+    <dimen name="margin_44dp">44dp</dimen>
+    <dimen name="margin_46dp">46dp</dimen>
+    <dimen name="margin_48dp">48dp</dimen>
+    <dimen name="margin_52dp">52dp</dimen>
+    <dimen name="margin_53dp">53dp</dimen>
+    <dimen name="margin_55dp">55dp</dimen>
+    <dimen name="margin_56dp">56dp</dimen>
+    <dimen name="margin_58dp">58dp</dimen>
+    <dimen name="margin_70dp">70dp</dimen>
+    <dimen name="margin_85dp">85dp</dimen>
+    <dimen name="margin_64dp">64dp</dimen>
+    <dimen name="margin_65dp">65dp</dimen>
+    <dimen name="margin_80dp">80dp</dimen>
+    <dimen name="margin_82dp">82dp</dimen>
+    <dimen name="margin_88dp">88dp</dimen>
+    <dimen name="margin_100dp">100dp</dimen>
+    <dimen name="margin_112dp">112dp</dimen>
+    <dimen name="margin_120dp">120dp</dimen>
+    <dimen name="margin_174dp">174dp</dimen>
+
+    <dimen name="corner_radius_6dp">6dp</dimen>
+    <dimen name="corner_radius_8dp">8dp</dimen>
+    <dimen name="corner_radius_20dp">20dp</dimen>
+    <dimen name="corner_radius_16dp">16dp</dimen>
+    <dimen name="corner_radius_50dp">50dp</dimen>
+
+    <dimen name="margin_1dp">1dp</dimen>
+    <dimen name="margin_110dp">110dp</dimen>
+    <dimen name="margin_128dp">128dp</dimen>
+
+    <dimen name="data_cell_vertical_margin">10dp</dimen>
+    <dimen name="data_cell_text_value_margin_top">2dp</dimen>
+    <dimen name="shared_progress_bar_padding">8dp</dimen>
+
+    <dimen name="divider_height">1dp</dimen>
+    <dimen name="error_view_icon_size">110dp</dimen>
+    <dimen name="error_view_icon_margin_bottom">26dp</dimen>
+    <dimen name="error_view_title_margin_bottom">8dp</dimen>
+    <dimen name="error_view_text_max_width">280dp</dimen>
+    <dimen name="floating_action_button_margin">10dp</dimen>
+
+    <dimen name="currency_selector_flag_width">35dp</dimen>
+    <dimen name="currency_selector_flag_height">21dp</dimen>
+
+    <dimen name="progress_container">60dp</dimen>
+    <dimen name="progress_radius">30dp</dimen>
+    <dimen name="progress_large_radius">50dp</dimen>
+    <dimen name="progress_container_small">40dp</dimen>
+    <dimen name="progress_radius_small">20dp</dimen>
+    <dimen name="progress_elevation">3dp</dimen>
+    <dimen name="progress_padding">5dp</dimen>
+
+    <!--PASSWORD VIEW-->
+    <dimen name="password_logo_margin_bottom">25dp</dimen>
+    <dimen name="password_logo_margin_top">64dp</dimen>
+    <dimen name="password_title_margin_top">72dp</dimen>
+    <dimen name="password_username_textbox_margin_top">10dp</dimen>
+    <dimen name="password_password_textbox_margin_top">10dp</dimen>
+    <dimen name="password_text_forgot_margin_top">15dp</dimen>
+    <dimen name="password_edit_text_height">56dp</dimen>
+    <dimen name="password_edit_text_margin_horizontal">32dp</dimen>
+
+    <!--PASSCODE VIEW-->
+    <!-- CUSTOM VIEW DIMENS FOR CONTAINER -->
+    <dimen name="default_padding">10dp</dimen>
+
+    <!-- CUSTOM VIEW DIMENS FOR PIN VIEW-->
+    <dimen name="pin_height">26dp</dimen>
+    <dimen name="pin_width">26dp</dimen>
+    <dimen name="pin_filled_height">10dp</dimen>
+    <dimen name="pin_filled_width">10dp</dimen>
+    <dimen name="pin_spacing">24dp</dimen>
+
+    <!-- CUSTOM DIMENS FOR 'SETUP' AND 'CONFIRM' MODE -->
+    <dimen name="passcode_title_margin_bottom">64dp</dimen>
+    <dimen name="passcode_setup_message_width">193dp</dimen>
+    <dimen name="passcode_setup_message_height">114dp</dimen>
+    <dimen name="passcode_dot_radius">100dp</dimen>
+    <dimen name="passcode_title_margin_top">88dp</dimen>
+    <dimen name="progressbar_size">40dp</dimen>
+    <dimen name="passcode_progressbar_margin_top">40dp</dimen>
+
+    <!-- CUSTOM TOP VIEW DIMENS CONTAINER FOR 'AUTHENTICATE' MODE -->
+    <dimen name="passcode_authenticate_pin_container_margin_bottom">24dp</dimen>
+    <dimen name="passcode_authenticate_forgot_margin_start">24dp</dimen>
+    <dimen name="passcode_authenticate_forgot_padding">8dp</dimen>
+    <dimen name="passcode_pin_spacing" tools:override="true">10dp</dimen>
+    <dimen name="passcode_authenticate_logo_size">60dp</dimen>
+    <dimen name="passcode_authenticate_logo_margin_top">48dp</dimen>
+    <dimen name="passcode_authenticate_title_margin_top">32dp</dimen>
+    <dimen name="passcode_authenticate_title_padding_horizontal">16dp</dimen>
+    <dimen name="passcode_authenticate_subtitle_margin_top">8dp</dimen>
+    <dimen name="passcode_authenticate_progress_margin_top">40dp</dimen>
+    <dimen name="passcode_authenticate_forgotpin_margin_top">40dp</dimen>
+    <dimen name="passcode_authenticate_fingerprintimage_size">32dp</dimen>
+
+    <dimen name="nav_header_vertical_spacing">16dp</dimen>
+    <dimen name="nav_header_height">180dp</dimen>
+
+    <!--Welcome-->
+    <dimen name="welcome_screen_signup_button_margin_bottom">104dp</dimen>
+    <dimen name="welcome_screen_login_button_margin_top">24dp</dimen>
+    <dimen name="welcome_screen_logo_size">48dp</dimen>
+
+    <!--Transaction-->
+    <dimen name="product_title_margin_top">88dp</dimen>
+    <dimen name="currency_margin_top">2dp</dimen>
+    <dimen name="card_elevation">4dp</dimen>
+    <dimen name="new_payment_padding">12dp</dimen>
+    <dimen name="fixed_banner_height">150dp</dimen>
+    <dimen name="transactions_error_text_margin_horizontal">40dp</dimen>
+    <dimen name="transactions_error_text_margin_top">8dp</dimen>
+    <dimen name="transactions_error_title_margin_top">8dp</dimen>
+    <dimen name="transactions_error_image_size">100dp</dimen>
+    <dimen name="transactions_recipient_icon_size">40dp</dimen>
+    <dimen name="transactions_list_item_icon_size">32dp</dimen>
+    <dimen name="filter_container_margin">16dp</dimen>
+    <dimen name="tab_bar_height">56dp</dimen>
+
+    <!--Product Summary-->
+    <dimen name="product_summary_container_progress_size">60dp</dimen>
+    <dimen name="product_summary_container_progress_radius">30dp</dimen>
+    <dimen name="product_summary_container_progress_elevation">3dp</dimen>
+    <dimen name="product_summary_container_progress_padding">5dp</dimen>
+    <dimen name="product_summary_minimum_height">115dp</dimen>
+    <dimen name="account_min_height">160dp</dimen>
+
+    <!--Places-->
+    <dimen name="places_info_title_top_margin">10dp</dimen>
+    <dimen name="places_info_address_top_margin">6dp</dimen>
+    <dimen name="places_info_button_radius">3dp</dimen>
+    <dimen name="places_info_card_elevation">3dp</dimen>
+    <dimen name="places_info_button_margin_top">34dp</dimen>
+    <dimen name="places_info_padding">16dp</dimen>
+    <dimen name="places_list_item_location_icon_sze">21dp</dimen>
+    <dimen name="places_list_item_location_icon_bottom_margin">15dp</dimen>
+    <dimen name="places_list_item_location_icon_margin_end">35dp</dimen>
+    <dimen name="places_list_item_location_icon_margin_start">20dp</dimen>
+    <dimen name="places_list_item_location_icon_margin_top">15dp</dimen>
+    <dimen name="places_list_item_title_margin_top">7dp</dimen>
+    <dimen name="places_list_item_title_line_spacing_extra">3dp</dimen>
+    <dimen name="places_list_item_text_location_margin_bottom">7dp</dimen>
+    <dimen name="places_list_item_text_location_spacing_extra">2dp</dimen>
+    <dimen name="places_list_item_vertical_divider_height">10dp</dimen>
+    <dimen name="places_list_item_vertical_divider_width">1dp</dimen>
+    <dimen name="places_search_area_background_height">40dp</dimen>
+    <dimen name="places_search_area_radius">2dp</dimen>
+    <dimen name="places_button_search_area_margin_top">10dp</dimen>
+    <dimen name="places_button_search_area_width">180dp</dimen>
+    <dimen name="places_button_search_area_height">40dp</dimen>
+
+    <!--RDC history-->
+    <dimen name="rdc_history_header_height">32dp</dimen>
+    <dimen name="rdc_history_status_image_size">26dp</dimen>
+    <dimen name="rdc_history_status_margin_right">26dp</dimen>
+    <dimen name="rdc_history_text_margin_half">2dp</dimen>
+    <dimen name="rdc_history_account_name_margin_end">5dp</dimen>
+
+    <!--RDC form-->
+    <dimen name="rdc_camera_control_width">162dp</dimen>
+    <dimen name="rdc_camera_control_margin_bottom">17dp</dimen>
+    <dimen name="rdc_camera_control_half_margin_between">9dp</dimen>
+    <dimen name="rdc_camera_image_margin_top">23dp</dimen>
+    <dimen name="rdc_camera_image_margin_bottom">17dp</dimen>
+    <dimen name="rdc_page_indicator_dot_margin">4dp</dimen>
+
+    <dimen name="rdc_form_product_selector_card_height">160dp</dimen>
+    <dimen name="rdc_new_form_product_selector_card_height">80dp</dimen>
+    <dimen name="rdc_form_product_selector_indicator_container_height">28dp</dimen>
+    <dimen name="rdc_form_product_selector_indicator_dot_horizontal_margin">4dp</dimen>
+    <dimen name="rdc_form_product_selector_indicator_dot_vertical_margin">9dp</dimen>
+    <dimen name="rdc_form_product_selector_container_horizontal_margin">16dp</dimen>
+    <dimen name="rdc_form_product_selector_container_top_margin">22dp</dimen>
+    <dimen name="rdc_form_product_selector_corner_radius">8dp</dimen>
+    <dimen name="rdc_form_product_selector_card_elevation">4dp</dimen>
+    <dimen name="rdc_form_product_selector_category_line_size">6dp</dimen>
+
+    <dimen name="rdc_form_message_vertical_margin">19dp</dimen>
+    <dimen name="rdc_form_amount_input_bottom_margin">28dp</dimen>
+    <dimen name="rdc_form_image_front_container_horizontal_padding">15dp</dimen>
+    <dimen name="rdc_form_image_front_container_vertical_padding">25dp</dimen>
+    <dimen name="rdc_form_image_text_margin">19dp</dimen>
+    <dimen name="rdc_form_images_camera_icon_bottom_margin">3dp</dimen>
+    <dimen name="rdc_form_images_camera_icon_height">80dp</dimen>
+    <dimen name="rdc_form_images_camera_icon_width">80dp</dimen>
+    <dimen name="rdc_form_image_captured_border_width">2dp</dimen>
+    <dimen name="rdc_form_images_container_top_margin">25dp</dimen>
+    <dimen name="rdc_form_images_total_height">170dp</dimen>
+    <dimen name="rdc_form_images_margin_top">40dp</dimen>
+    <dimen name="rdc_form_amount_input_edittext_height">56dp</dimen>
+    <dimen name="rdc_form_amount_input_text_margin_top">12dp</dimen>
+    <dimen name="rdc_form_review_margin_top">0dp</dimen>
+
+    <dimen name="rdc_form_review_image_container_size">32dp</dimen>
+    <dimen name="rdc_form_review_image_padding">6dp</dimen>
+    <dimen name="rdc_form_review_close_image_padding">5dp</dimen>
+    <dimen name="rdc_form_review_amount_cell_margin_top">25dp</dimen>
+    <dimen name="rdc_form_review_check_image_height">70dp</dimen>
+    <dimen name="rdc_form_review_check_image_margin_top">54dp</dimen>
+    <dimen name="rdc_form_review_half_spacer">25dp</dimen>
+    <dimen name="rdc_form_review_button_confirm_margin_top">47dp</dimen>
+    <dimen name="rdc_form_images_padding_top">20dp</dimen>
+    <dimen name="rdc_form_images_padding_bottom">40dp</dimen>
+
+    <dimen name="rdc_form_information_icon_size">25dp</dimen>
+    <dimen name="rdc_form_information_icon_margin_end">11dp</dimen>
+    <dimen name="rdc_form_information_margin_end">4dp</dimen>
+    <dimen name="rdc_form_images_horizontal_padding">20dp</dimen>
+    <dimen name="rdc_form_images_container_margin_end">10dp</dimen>
+    <dimen name="rdc_form_message_image_size">25dp</dimen>
+    <dimen name="rdc_form_message_image_margin_right">11dp</dimen>
+    <dimen name="rdc_form_message_text_margin_right">4dp</dimen>
+
+    <!--Bill pay-->
+    <dimen name="bill_pay_list_item_recurring_image_icon_size">20dp</dimen>
+    <dimen name="bill_pay_list_item_amount_margin_end">15dp</dimen>
+    <dimen name="bill_pay_list_item_recurring_text_margin_start">3dp</dimen>
+    <dimen name="bill_pay_review_header_width">32dp</dimen>
+    <dimen name="bill_pay_review_header_height">64dp</dimen>
+
+    <dimen name="bill_pay_review_image_padding">6dp</dimen>
+    <dimen name="bill_pay_review_close_image_padding">5dp</dimen>
+    <dimen name="bill_pay_review_amount_cell_margin_top">25dp</dimen>
+    <dimen name="bill_pay_review_check_image_height">70dp</dimen>
+    <dimen name="bill_pay_review_check_image_margin_top">54dp</dimen>
+    <dimen name="bill_pay_review_half_spacer">25dp</dimen>
+    <dimen name="bill_pay_review_button_confirm_margin_top">47dp</dimen>
+    <dimen name="bill_pay_images_padding_top">20dp</dimen>
+    <dimen name="bill_pay_images_padding_bottom">40dp</dimen>
+    <dimen name="bill_pay_review_image_container_size">32dp</dimen>
+
+    <!--Contacts-->
+    <dimen name="contacts_image_size">40dp</dimen>
+    <dimen name="contacts_image_margin_start">36dp</dimen>
+    <dimen name="contacts_name_margin_start">8dp</dimen>
+    <dimen name="contacts_character_width">30dp</dimen>
+
+    <!-- CUSTOM VIEW DIMENS FOR OTP VIEW-->
+    <dimen name="otp_pin_width">32dp</dimen>
+    <dimen name="otp_digit_height">19dp</dimen>
+    <dimen name="otp_width">19dp</dimen>
+    <dimen name="otp_spacing">12dp</dimen>
+    <dimen name="otp_selector_height">2dp</dimen>
+    <dimen name="otp_title_margin_bottom">70dp</dimen>
+    <dimen name="otp_text_margin_top">72dp</dimen>
+    <dimen name="otp_input_container_height">50dp</dimen>
+
+    <!--Setup complete-->
+    <dimen name="setup_complete_icon_margin_bottom">124dp</dimen>
+
+    <!--Share App-->
+    <dimen name="share_app_title_margin_top">104dp</dimen>
+    <dimen name="payments_progressbar_size">50dp</dimen>
+    <dimen name="flag_icon_width">35dp</dimen>
+    <dimen name="flag_icon_height">21dp</dimen>
+
+    <!--Bank Card View-->
+    <dimen name="card_view_card_corner_radius">8dp</dimen>
+    <dimen name="card_view_card_marginTop">-10dp</dimen>
+    <dimen name="card_view_elevation">8dp</dimen>
+    <dimen name="card_view_benefit_elevation">2dp</dimen>
+    <dimen name="card_view_card_elevation">6dp</dimen>
+    <dimen name="card_view_container_margin_end">16dp</dimen>
+    <dimen name="card_view_number_margin_top">100dp</dimen>
+    <dimen name="card_view_cvc_margin_top">2dp</dimen>
+    <dimen name="card_style_elevation">4dp</dimen>
+
+    <!--Bank Card-->
+    <dimen name="abc_button_height">50dp</dimen>
+    <dimen name="card_action_icon_size">16dp</dimen>
+    <dimen name="cards_result_banner_height">100dp</dimen>
+    <dimen name="activate_card_result_icon_size">100dp</dimen>
+    <dimen name="biller_list_icon_size">25dp</dimen>
+    <dimen name="favateer_favourite_footer_height">80dp</dimen>
+    <dimen name="fawateer_bill_overview_header_icon_size">25dp</dimen>
+    <dimen name="fawateer_bill_name_margin">20dp</dimen>
+    <dimen name="fawateer_read_only_field_margin">20dp</dimen>
+    <dimen name="seek_bar_thumb_size">20dp</dimen>
+    <dimen name="rules_spinner_chevron_height">45dp</dimen>
+    <dimen name="rules_spinner_chevron_width">35dp</dimen>
+    <dimen name="padding_2dp">2dp</dimen>
+    <dimen name="padding_20dp">20dp</dimen>
+    <dimen name="padding_60dp">60dp</dimen>
+    <dimen name="padding_64dp">64dp</dimen>
+    <dimen name="fawateer_submit_icon_size">40dp</dimen>
+    <dimen name="fawateer_submit_icon_height">140dp</dimen>
+    <dimen name="tabbar_background_height">84dp</dimen>
+    <dimen name="more_item_height">90dp</dimen>
+    <dimen name="pot_more_item_height">80dp</dimen>
+    <dimen name="more_item_icon_layout_size">50dp</dimen>
+    <dimen name="pot_more_item_icon_layout_size">50dp</dimen>
+    <dimen name="more_item_icon_size">42dp</dimen>
+    <dimen name="more_item_referral_code_icon_size">42dp</dimen>
+    <dimen name="menu_item_divider_margin">72dp</dimen>
+    <dimen name="more_item_small_icon_size">16dp</dimen>
+    <dimen name="debit_card_type_height">50dp</dimen>
+    <dimen name="debit_card_type_width">30dp</dimen>
+    <dimen name="notification_corners_radius">8dp</dimen>
+    <dimen name="goal_adjustment_corners_radius">12dp</dimen>
+    <dimen name="success_icon_size">50dp</dimen>
+    <dimen name="fawateer_status_margin_bottom">20dp</dimen>
+
+    <!--Linked Accounts-->
+    <dimen name="linked_account_item_minimum_height">88dp</dimen>
+    <dimen name="linked_account_status_icon_window_width">44dp</dimen>
+    <dimen name="linked_account_status_icon_size">24dp</dimen>
+    <dimen name="linked_account_empty_accounts_item_height">328dp</dimen>
+    <dimen name="linked_accounts_section_height">48dp</dimen>
+
+    <dimen name="linked_accounts_item_marginStart">16dp</dimen>
+    <dimen name="linked_accounts_item_marginTop">12dp</dimen>
+    <dimen name="linked_accounts_item_marginEnd">12dp</dimen>
+    <dimen name="linked_accounts_item_marginBottom">4dp</dimen>
+
+    <dimen name="linked_accounts_item_title_marginStart">8dp</dimen>
+    <dimen name="linked_accounts_item_title_marginTop">12dp</dimen>
+    <dimen name="linked_accounts_item_title_marginEnd">8dp</dimen>
+
+    <dimen name="linked_accounts_item_accountNumber_marginStart">8dp</dimen>
+    <dimen name="linked_accounts_item_accountNumber_marginTop">6dp</dimen>
+    <dimen name="linked_accounts_item_accountNumber_marginEnd">8dp</dimen>
+    <dimen name="linked_accounts_item_accountNumber_marginBottom">12dp</dimen>
+
+    <dimen name="linked_accounts_item_amount_marginTop">10dp</dimen>
+    <dimen name="linked_accounts_item_amount_marginEnd">4dp</dimen>
+
+    <dimen name="linked_accounts_item_optionalEmptySection_marginStart">12dp</dimen>
+    <dimen name="linked_accounts_item_optionalEmptySection_marginTop">16dp</dimen>
+    <dimen name="linked_accounts_item_optionalEmptySection_marginEnd">12dp</dimen>
+    <dimen name="linked_accounts_item_optionalEmptySection_marginBottom">4dp</dimen>
+
+    <dimen name="linked_accounts_item_optional_header_margin">4dp</dimen>
+
+    <dimen name="linked_accounts_item_optional_cardView_marginStart">4dp</dimen>
+    <dimen name="linked_accounts_item_optional_cardView_marginEnd">4dp</dimen>
+    <dimen name="linked_accounts_item_optional_cardView_marginBottom">6dp</dimen>
+
+    <dimen name="linked_accounts_item_optional_emptyText_margin">24dp</dimen>
+    <dimen name="linked_accounts_item_optional_createAccountButton_margin">24dp</dimen>
+
+    <dimen name="linked_accounts_item_section_marginStart">16dp</dimen>
+    <dimen name="linked_accounts_item_section_marginEnd">16dp</dimen>
+
+    <dimen name="linked_accounts_item_section_titleText_marginStart">8dp</dimen>
+    <dimen name="linked_accounts_item_section_titleText_marginBottom">4dp</dimen>
+
+    <dimen name="linked_accounts_item_section_countText_marginEnd">8dp</dimen>
+    <dimen name="linked_accounts_item_section_countText_marginBottom">4dp</dimen>
+
+    <dimen name="linked_accounts_view_container_paddingTop">24dp</dimen>
+    <dimen name="linked_accounts_view_container_marginBottom">20dp</dimen>
+    <dimen name="linked_accounts_view_recyclerView_paddingBottom">32dp</dimen>
+    <dimen name="linked_accounts_flag_size">20dp</dimen>
+    <dimen name="linked_accounts_selection_radio_marginStart">5dp</dimen>
+    <dimen name="linked_accounts_selector_dot_size">5dp</dimen>
+    <dimen name="linked_account_view_pager_group_of_same_currency_account_height">130dp</dimen>
+    <dimen name="linked_account_view_pager_elevation">10dp</dimen>
+    <dimen name="linked_accounts_carousel_marginStart">14dp</dimen>
+    <dimen name="linked_accounts_carousel_marginTop">12dp</dimen>
+    <dimen name="linked_accounts_carousel_marginEnd">12dp</dimen>
+    <dimen name="linked_accounts_carousel_marginBottom">4dp</dimen>
+
+    <!--Request Card Confirmation-->
+    <dimen name="review_request_confirm_icon_size">40dp</dimen>
+    <dimen name="review_request_button_customise_width">24dp</dimen>
+    <dimen name="review_request_button_customise_height">32dp</dimen>
+    <dimen name="review_request_button_customise_marginStart">14dp</dimen>
+
+    <!--authenticate user-->
+    <dimen name="authenticate_user_image_margin_top">24dp</dimen>
+    <dimen name="authenticate_user_title_margin_top">24dp</dimen>
+    <dimen name="authenticate_user_title_margin_bottom">32dp</dimen>
+    <dimen name="authenticate_user_progress_margin_top">40dp</dimen>
+    <dimen name="authenticate_user_fingerpint_image_margin_top">32dp</dimen>
+    <dimen name="authenticate_user_finger_print_size">32dp</dimen>
+    <dimen name="authenticate_user_progress_size">40dp</dimen>
+    <dimen name="benefit_pay_container_margin_horizontal">8dp</dimen>
+    <dimen name="benefit_pay_container_padding_bottom">32dp</dimen>
+    <dimen name="ftf_money_option_icon_size">40dp</dimen>
+    <dimen name="benefit_pay_image_padding_start">0dp</dimen>
+    <dimen name="benefit_pay_image_padding_top">11dp</dimen>
+    <dimen name="benefit_pay_image_padding_end">10dp</dimen>
+    <dimen name="benefit_pay_image_padding_bottom">10dp</dimen>
+    <dimen name="benefit_pay_debitcard_margin_start">16dp</dimen>
+    <dimen name="benefit_pay_debitcard_margin_top">26dp</dimen>
+    <dimen name="benefit_pay_debitcard_margin_end">16dp</dimen>
+    <dimen name="benefit_pay_divider_margin_start">69dp</dimen>
+    <dimen name="benefit_pay_button_margin_top">24dp</dimen>
+    <dimen name="bill_pay_amount_button_height">48dp</dimen>
+    <dimen name="bill_pay_amount_button_margin">16dp</dimen>
+    <dimen name="bill_pay_amount_container_padding_h">24dp</dimen>
+    <dimen name="bill_pay_amount_container_padding_bottom">32dp</dimen>
+    <dimen name="benefit_browser_margin_h">74dp</dimen>
+    <dimen name="benefit_browser_margin_top">51dp</dimen>
+    <dimen name="benefit_browser_close_padding">20dp</dimen>
+    <dimen name="benefit_browser_title_size">18sp</dimen>
+    <dimen name="benefit_browser_subtitle_size">11sp</dimen>
+
+
+    <dimen name="add_money_button_height">32dp</dimen>
+    <dimen name="add_money_button_width">100dp</dimen>
+    <dimen name="add_money_icon_width">15dp</dimen>
+    <dimen name="add_money_icon_height">24dp</dimen>
+    <dimen name="add_money_overview_bottom_margin">20dp</dimen>
+    <dimen name="add_money_overview_right_margin">16dp</dimen>
+    <dimen name="add_money_detail_right_margin">24dp</dimen>
+    <dimen name="custom_banner_height">92dp</dimen>
+    <dimen name="custom_banner_icon_width">22dp</dimen>
+    <dimen name="custom_banner_icon_height">20dp</dimen>
+    <dimen name="custom_banner_icon_margin">24dp</dimen>
+    <dimen name="custom_banner_title_margin">24dp</dimen>
+    <dimen name="custom_banner_description_margin">7dp</dimen>
+    <dimen name="banner_margin">16dp</dimen>
+    <dimen name="custom_banner_dismiss">12dp</dimen>
+
+    <!--Add Money Bank Transfer-->
+    <dimen name="bank_transfer_icon_margin_top">36dp</dimen>
+    <dimen name="bank_transfer_description_margin_horizontal">24dp</dimen>
+    <dimen name="bank_transfer_description_margin_top">8dp</dimen>
+    <dimen name="bank_transfer_copy_view_height">40dp</dimen>
+
+    <dimen name="overview_tablayout_height">56dp</dimen>
+    <dimen name="overview_tablayout_margin">16dp</dimen>
+
+    <!--Add Money branch transfer-->
+    <dimen name="add_money_branch_transfer_icon_margin_top">36dp</dimen>
+    <dimen name="add_money_branch_transfer_icon_margin_bottom">28dp</dimen>
+    <dimen name="add_money_branch_transfer_description_margin">24dp</dimen>
+    <dimen name="add_money_branch_transfer_showmap_margin_top">16dp</dimen>
+    <dimen name="add_money_branch_transfer_flag_size">32sp</dimen>
+    <dimen name="add_money_branch_transfer_marker_size">24sp</dimen>
+    <dimen name="add_money_branch_transfer_icon_size">64dp</dimen>
+    <dimen name="add_money_branch_transfer_icon_margin_end">18dp</dimen>
+    <dimen name="add_money_branch_transfer_location_icon_size">15sp</dimen>
+
+    <!-- Mock Intention View-->
+    <dimen name="mock_intention_view_horizontal_margin">80dp</dimen>
+    <dimen name="mock_intention_view_mockbutton_margin_top">6dp</dimen>
+    <dimen name="error_popup_margin">8dp</dimen>
+    <dimen name="error_popup_padding">16dp</dimen>
+    <dimen name="error_popup_icon_size">24dp</dimen>
+    <dimen name="error_popup_icon_padding">3dp</dimen>
+    <dimen name="error_popup_title_margin_start">16dp</dimen>
+
+    <!--activity transaction-->
+    <dimen name="transaction_IBAN_horizontal_padding">4dp</dimen>
+    <dimen name="transaction_IBAN_paddingEnd">14dp</dimen>
+    <dimen name="transaction_amount_margin_top">20dp</dimen>
+    <dimen name="transaction_in_out_margin">20dp</dimen>
+    <dimen name="transaction_thisMonth_margin">7dp</dimen>
+    <dimen name="transaction_progress_height">28dp</dimen>
+    <dimen name="transaction_outLayout_margin">4dp</dimen>
+    <dimen name="transaction_lblStatements_margin">3dp</dimen>
+    <dimen name="transaction_filterIcon_margin">3dp</dimen>
+    <dimen name="transaction_progress_margin">50dp</dimen>
+    <dimen name="transaction_more_buttons_margin">19dp</dimen>
+    <dimen name="transaction_toolbar_padding_top">16dp</dimen>
+    <dimen name="transaction_toolbar_padding_start">8dp</dimen>
+    <dimen name="transaction_toolbar_padding_end">72dp</dimen>
+    <dimen name="transaction_detail_container_padding_top">8dp</dimen>
+    <dimen name="transaction_error_padding_top">10dp</dimen>
+    <dimen name="transaction_copy_view_height">30dp</dimen>
+    <dimen name="transaction_copyTextView_marginStart">5dp</dimen>
+
+    <!-- Transaction Widget -->
+    <dimen name="transaction_dialog_padding_bottom">5dp</dimen>
+    <dimen name="transaction_dialog_padding_top">16dp</dimen>
+    <dimen name="transaction_dialog_padding_left">16dp</dimen>
+    <dimen name="transaction_dialog_margin_left">16dp</dimen>
+    <dimen name="transaction_dialog_margin_right">16dp</dimen>
+    <dimen name="transaction_dialog_margin_top">10dp</dimen>
+    <dimen name="transaction_dialog_margin_bottom">20dp</dimen>
+    <dimen name="transaction_dialog_margin">16dp</dimen>
+    <dimen name="transaction_item_margin_top">16dp</dimen>
+    <dimen name="transaction_item_margin_bottom">8dp</dimen>
+    <dimen name="transaction_item_padding_start">20dp</dimen>
+    <dimen name="transaction_item_padding_end">16dp</dimen>
+    <dimen name="transaction_item_filter_padding_end">20dp</dimen>
+    <dimen name="transaction_item_filter_icon_margin_left">5dp</dimen>
+    <dimen name="error_view_container_padding_top">16dp</dimen>
+    <dimen name="error_view_container_padding_bottom">48dp</dimen>
+    <dimen name="error_view_text_margin_start">24dp</dimen>
+    <dimen name="error_view_text_margin_end">24dp</dimen>
+
+    <!--fatca instruction-->
+    <dimen name="fatca_screen_button_margin_top">32dp</dimen>
+    <dimen name="fatca_screen_animation_top_margin">104dp</dimen>
+    <dimen name="fatca_screen_description_margin_top">24dp</dimen>
+
+    <dimen name="intro_page_circle">8dp</dimen>
+    <dimen name="intro_page_circle_height">8dp</dimen>
+    <dimen name="intro_page_circle_marginBottom">32dp</dimen>
+    <dimen name="intro_page_image_height">120dp</dimen>
+    <dimen name="intro_page_image_margin_top">8dp</dimen>
+    <dimen name="intro_page_image_max_height">192dp</dimen>
+    <dimen name="intro_page_glare_size">210dp</dimen>
+    <dimen name="intro_page_title_margin_top">40dp</dimen>
+    <dimen name="intro_page_list_item_padding">12dp</dimen>
+    <dimen name="intro_page_list_item_icon_margin">24dp</dimen>
+    <dimen name="intro_page_list_margin_vertical">8dp</dimen>
+    <dimen name="product_summary_add_account_margin_top">32dp</dimen>
+    <dimen name="product_summary_add_account_button_size">48dp</dimen>
+
+    <dimen name="request_card_page_margin">-64dp</dimen>
+    <dimen name="request_card_page_padding">16dp</dimen>
+    <dimen name="card_page_indicator_size">8dp</dimen>
+    <dimen name="small_card_view_elevation">8dp</dimen>
+
+    <!--My assistant-->
+    <dimen name="my_assistant_cell_vertical_padding">16dp</dimen>
+    <dimen name="my_assistant_cell_top_padding">32dp</dimen>
+
+    <!--waiting list info-->
+    <dimen name="waiting_list_info_image_size">48dp</dimen>
+    <dimen name="waiting_list_info_image_margin">32dp</dimen>
+
+    <!--International Payments Page-->
+    <dimen name="international_insufficientAmount_marginTop">24dp</dimen>
+    <dimen name="international_insufficientAmount_marginStart">28dp</dimen>
+    <dimen name="international_insufficientAmount_marginEnd">28dp</dimen>
+    <dimen name="international_beneficiary_padding">16dp</dimen>
+    <dimen name="international_beneficiary_continueButton_margin">16dp</dimen>
+    <dimen name="international_description_marginStart">24dp</dimen>
+    <dimen name="international_description_marginEnd">24dp</dimen>
+    <dimen name="international_description_marginTop">16dp</dimen>
+    <dimen name="international_description_continueButton_margin">16dp</dimen>
+
+    <dimen name="international_transfer_select_currency_flag_width">40dp</dimen>
+    <dimen name="international_transfer_select_currency_flag_height">30dp
+    </dimen>
+    <dimen name="international_transfer_select_currency_flag_margin">16dp
+    </dimen>
+    <dimen name="international_transfer_select_currency_flag_padding">2dp
+    </dimen>
+
+    <!--Final check overview Page-->
+    <dimen name="final_check_overview_title_margin">24dp</dimen>
+
+    <dimen name="app_update_layout_padding">24dp</dimen>
+    <dimen name="app_update_header_marginTop">42dp</dimen>
+    <dimen name="app_update_image_width">170dp</dimen>
+    <dimen name="app_update_image_height">106dp</dimen>
+    <dimen name="app_update_image_marginTop">38dp</dimen>
+    <dimen name="app_update_title_marginTop">24dp</dimen>
+    <dimen name="app_update_description_marginTop">8dp</dimen>
+    <dimen name="app_update_button_marginBottom">24dp</dimen>
+
+    <!-- CurrencyView -->
+    <dimen name="input_layout_paddingBottom">5dp</dimen>
+    <dimen name="input_layout_marginBottom">5dp</dimen>
+    <dimen name="input_layout_paddingTop">2dp</dimen>
+    <dimen name="currency_view_background_focused_line_height">2dp</dimen>
+    <dimen name="currency_view_background_not_focused_line_height">1dp</dimen>
+    <dimen name="currency_flag_marginTop">5dp</dimen>
+    <dimen name="currency_flag_marginEnd">10dp</dimen>
+
+    <dimen name="linked_card_number_ending_marginTop">16dp</dimen>
+    <dimen name="linked_card_accounts_marginTop">32dp</dimen>
+
+    <dimen name="simpletooltip_overlay_offset">10dp</dimen>
+    <dimen name="simpletooltip_margin">10dp</dimen>
+    <dimen name="simpletooltip_padding">24dp</dimen>
+    <dimen name="simpletooltip_arrow_width">16dp</dimen>
+    <dimen name="simpletooltip_arrow_height">8dp</dimen>
+    <dimen name="simpletooltip_animation_padding">4dp</dimen>
+    <dimen name="tool_tips_padding">24dp</dimen>
+    <dimen name="tool_tips_margin">16dp</dimen>
+    <dimen name="tool_tips_image_marginRight">16dp</dimen>
+
+    <dimen name="back_icon_width">48dp</dimen>
+    <dimen name="back_icon_height">48dp</dimen>
+    <dimen name="back_icon_padding">24dp</dimen>
+    <dimen name="domestic_transfer_margin_horizontal">16dp</dimen>
+    <dimen name="domestic_transfer_margin_gap">16dp</dimen>
+    <dimen name="domestic_transfer_button_margin_top">24dp</dimen>
+    <dimen name="domestic_transfer_fee_container_margin_horizontal">20dp</dimen>
+    <dimen name="domestic_transfer_fee_container_margin_top">12dp</dimen>
+    <dimen name="domestic_transfer_fee_list_margin_top">8dp</dimen>
+    <dimen name="domestic_transfer_note_padding">4dp</dimen>
+    <dimen name="domestic_transfer_beneficiary_checkbox_padding">8dp</dimen>
+    <dimen name="domestic_transfer_checkbox_margin_horizontal">20dp</dimen>
+    <dimen name="domestic_transfer_radio_padding">8dp</dimen>
+    <dimen name="international_transfer_margin_horizontal">24dp</dimen>
+    <dimen name="international_transfer_margin_gap">16dp</dimen>
+    <dimen name="international_transfer_beneficiary_checkbox_margin_left">28dp</dimen>
+    <dimen name="international_transfer_currencyView_clickableOverlay">45dp</dimen>
+    <dimen name="international_transfer_beneficiary_checkbox_padding">8dp
+    </dimen>
+    <dimen name="international_transfer_debit_amount_margin">8dp</dimen>
+    <dimen name="international_transfer_list_margin_top">32dp</dimen>
+    <dimen name="international_transfer_rate_container_margin_horizontal">28dp
+    </dimen>
+    <dimen name="international_transfer_container_margin_top">24dp</dimen>
+
+    <dimen name="otp_header_line_marginTop">28dp</dimen>
+    <dimen name="otp_view_marginStart">32dp</dimen>
+    <dimen name="otp_view_marginTop">32dp</dimen>
+    <dimen name="otp_view_marginEnd">32dp</dimen>
+    <dimen name="otp_text_code_marginStart">24dp</dimen>
+    <dimen name="otp_text_code_marginTop">34dp</dimen>
+    <dimen name="otp_loading_progress_width">24dp</dimen>
+    <dimen name="otp_loading_progress_height">24dp</dimen>
+    <dimen name="otp_reminder_time_marginTop">20dp</dimen>
+    <dimen name="otp_reminder_time_marginBottom">20dp</dimen>
+    <dimen name="otp_view_paddingTop">14dp</dimen>
+    <dimen name="otp_view_paddingBottom">14dp</dimen>
+    <dimen name="otp_copy_text_view_marginStart">5dp</dimen>
+    <dimen name="copy_card_number_view_marginStart">10dp</dimen>
+    <dimen name="halfPageMargin">4dp</dimen><!-- half of distance between pages -->
+    <dimen name="peekOffset">12dp</dimen>
+    <dimen name="viewpager_next_item_visible">12dp</dimen>
+    <dimen name="card_overview_card_view_spacing">16dp</dimen>
+    <dimen name="card_overview_product_type_margin_top">8dp</dimen>
+    <dimen name="card_overview_card_num_margin_top">85dp</dimen>
+    <dimen name="card_overview_details_margin_bottom">17dp</dimen>
+    <dimen name="card_overview_card_number_margin_bottom">15dp</dimen>
+    <dimen name="card_overview_cvc_margin_start">35dp</dimen>
+    <dimen name="card_overview_inactive_lbl_margin_bottom">17dp</dimen>
+    <dimen name="linked_account_margin_start">16dp</dimen>
+    <dimen name="linked_account_margin_end">16dp</dimen>
+    <dimen name="card_overview_button_padding_top">18dp</dimen>
+    <dimen name="card_overview_button_icon_size">48dp</dimen>
+    <dimen name="card_overview_button_text_margin_top">8dp</dimen>
+    <dimen name="card_overview_button_padding_bottom">18dp</dimen>
+    <dimen name="linked_account_icon_padding">10dp</dimen>
+    <dimen name="cards_view_paddingBottom">24dp</dimen>
+    <dimen name="viewpager_current_item_horizontal_margin">38dp</dimen>
+    <dimen name="selected_icon_strokeWidth">4dp</dimen>
+    <dimen name="unselected_icon_strokeWidth">2dp</dimen>
+
+    <dimen name="help_icon_width">48dp</dimen>
+    <dimen name="help_icon_height">48dp</dimen>
+
+    <!--    Customise card emboss name-->
+    <dimen name="customise_name_description_margin">6dp</dimen>
+    <dimen name="customise_name_available_name_margin">8dp</dimen>
+    <dimen name="customise_name_button_padding">40dp</dimen>
+    <dimen name="customise_name_button_padding_vertical">12dp</dimen>
+    <dimen name="customise_name_select_button_padding">4dp</dimen>
+    <dimen name="customise_name_selected_name_padding_start">12dp</dimen>
+    <dimen name="customise_name_selected_name_padding">8dp</dimen>
+    <dimen name="customise_name_available_name_padding_end">4dp</dimen>
+    <dimen name="customise_name_available_name_padding">16dp</dimen>
+    <dimen name="customise_name_divider_width">2dp</dimen>
+    <dimen name="customise_name_select_button_margin">4dp</dimen>
+    <dimen name="customise_name_available_button_margin">8dp</dimen>
+    <dimen name="customise_name_available_section_padding">16dp</dimen>
+
+    <!--Help Screen Overlay-->
+    <dimen name="help_generic_title_margin_top">28dp</dimen>
+    <dimen name="help_email_button_margin_top">32dp</dimen>
+    <dimen name="help_email_button_call_us_top">16dp</dimen>
+
+    <!--onBoarding-->
+    <dimen name="onboarding_help_icon_padding">16dp</dimen>
+    <dimen name="onboarding_submit_button_height">60dp</dimen>
+    <dimen name="onboarding_swipe_arrow_height">7dp</dimen>
+    <dimen name="onboarding_swipe_arrow_width">13dp</dimen>
+    <dimen name="onboarding_carousel_width">122dp</dimen>
+    <dimen name="onboarding_carousel_height">75dp</dimen>
+    <dimen name="rect_stroke_width">1dp</dimen>
+    <dimen name="onboarding_linespace_extra">2sp</dimen>
+
+    <!--Create Account-->
+    <dimen name="create_account_account_name_container_margin_start">24dp</dimen>
+    <dimen name="create_account_account_name_container_margin_top">32dp</dimen>
+    <dimen name="create_account_account_name_container_margin_end">24dp</dimen>
+    <dimen name="create_account_account_name_edit_icon_margin_start">10dp</dimen>
+    <dimen name="create_account_account_name_edit_icon_margin_bottom">8dp</dimen>
+    <dimen name="create_account_account_name_edit_icon_padding">6dp</dimen>
+    <dimen name="charity_review_image_width">168dp</dimen>
+    <dimen name="charity_review_image_height">138dp</dimen>
+    <dimen name="charity_review_image_margin_top">35dp</dimen>
+    <dimen name="charity_labels_margin_start">24dp</dimen>
+    <dimen name="charity_review_first_label_margin_top">50dp</dimen>
+    <dimen name="charity_review_first_labels_margin_top">30dp</dimen>
+    <dimen name="charity_review_values_margin_start">16dp</dimen>
+    <dimen name="charity_review_values_margin_top">4dp</dimen>
+    <dimen name="charity_review_labels_margin_top">30dp</dimen>
+    <dimen name="charity_review_value_margin_top">16dp</dimen>
+    <dimen name="charity_scrollview_container_padding_bottom">32dp</dimen>
+    <dimen name="charity_review_confirm_button_margin">16dp</dimen>
+    <dimen name="charity_status_scrollview_height">0dp</dimen>
+    <dimen name="charity_status_padding_bottom">10dp</dimen>
+    <dimen name="charity_status_statusIcon">40dp</dimen>
+    <dimen name="charity_status_statusIcon_margin_end">18dp</dimen>
+    <dimen name="charity_status_values_top_margin">7dp</dimen>
+
+    <dimen name="card_activation_padding">24dp</dimen>
+    <dimen name="card_activation_description_marginTop">32dp</dimen>
+    <dimen name="card_overview_selector_paddingTop">20dp</dimen>
+    <dimen name="card_overview_selector_margin">8dp</dimen>
+    <dimen name="card_overview_selector_height">28dp</dimen>
+    <dimen name="card_overview_selector_marginTop">24dp</dimen>
+    <dimen name="card_overview_item_padding">16dp</dimen>
+    <dimen name="card_overview_item_icon_marginEnd">16dp</dimen>
+    <dimen name="card_overview_item_textSize">18sp</dimen>
+
+    <dimen name="lbl_debit_card_margin_end">9dp</dimen>
+    <dimen name="card_feature_card_desc_margin_top">10dp</dimen>
+    <dimen name="card_feature_charge_margin_start">6dp</dimen>
+    <dimen name="card_feature_per_enum_margin_start">4dp</dimen>
+    <dimen name="card_feature_divider_margin_top">24dp</dimen>
+    <dimen name="card_feature_list_margin_top">24dp</dimen>
+    <dimen name="card_feature_min_bal_margin_top">16dp</dimen>
+    <dimen name="card_feature_layout_padding_start">32dp</dimen>
+    <dimen name="card_feature_layout_padding_top">24dp</dimen>
+    <dimen name="card_feature_layout_padding_end">32dp</dimen>
+    <dimen name="card_overview_benefit_padding_start">24dp</dimen>
+    <dimen name="clipboard_icon_card_font_size">16sp</dimen>
+    <dimen name="clipboard_copy_card_number_view_marginTop">6dp</dimen>
+    <dimen name="card_datails_marginTop">6dp</dimen>
+    <dimen name="card_number_Text_marginBottom">57dp</dimen>
+    <dimen name="card_button_order_height">98dp</dimen>
+    <dimen name="card_button_order_width">32dp</dimen>
+    <dimen name="card_benefit_row_height">40dp</dimen>
+    <dimen name="card_benefit_row_padding_start">14dp</dimen>
+    <dimen name="card_benefit_row_padding_end">14dp</dimen>
+    <dimen name="card_benefit_title_icon_size">24dp</dimen>
+    <dimen name="card_benefit_expanded_title_icon_size">24dp</dimen>
+    <dimen name="card_benefit_add_icon_margin_top">4dp</dimen>
+    <dimen name="card_benefit_arrow_icon_size">14dp</dimen>
+    <dimen name="card_benefit_title_margin_start">16dp</dimen>
+    <dimen name="card_benefit_desc_padding">16dp</dimen>
+    <dimen name="card_feature_charge_margin_top">2dp</dimen>
+    <dimen name="card_feature_updown_arrow_height">12dp</dimen>
+    <dimen name="card_feature_charge_layout_margin_top">8dp</dimen>
+    <dimen name="card_feature_estimated_arrow_margin_start">5dp</dimen>
+    <dimen name="card_information_layout_padding">32dp</dimen>
+    <dimen name="card_information_layout_sticky_paddingBottom">24dp</dimen>
+    <dimen name="card_information_button_marginBottom">12dp</dimen>
+    <dimen name="card_information_space_top">24dp</dimen>
+    <dimen name="sticky_divider_height">1dp</dimen>
+    <dimen name="card_name_button_layout_height">64dp</dimen>
+
+
+    <!-- Charity-->
+    <dimen name="charity_donations_marginBottom">50dp</dimen>
+    <dimen name="charity_radiusLayout_padding">16dp</dimen>
+    <dimen name="charity_title_marginTop">20dp</dimen>
+    <dimen name="charity_backgroundView_marginTop">150dp</dimen>
+    <dimen name="charity_recyclerView_paddingBottom">30dp</dimen>
+    <dimen name="charity_description_marginTop">15dp</dimen>
+    <dimen name="charity_list_icon_width">100dp</dimen>
+    <dimen name="charity_list_icon_height">80dp</dimen>
+    <dimen name="charity_list_goalLayout_radius">20dp</dimen>
+    <dimen name="purpose_list_description_marginTop">10dp</dimen>
+
+    <dimen name="purpose_list_image_width">182dp</dimen>
+    <dimen name="purpose_list_image_height">140dp</dimen>
+    <dimen name="purpose_list_image_padding">8dp</dimen>
+    <dimen name="purpose_list_content_marginTopMinus">-70dp</dimen>
+    <dimen name="purpose_list_content_marginTop">70dp</dimen>
+
+
+    <dimen name="charity_list_goalLayout_marginTop">16dp</dimen>
+    <dimen name="charity_list_padding">16dp</dimen>
+    <dimen name="charity_list_name_marginStart">24dp</dimen>
+    <dimen name="charity_list_name_marginEnd">24dp</dimen>
+    <dimen name="charity_list_image_padding">1dp</dimen>
+    <dimen name="charity_list_purpose_marginTop">5dp</dimen>
+    <dimen name="charity_progress_bar_height">8dp</dimen>
+    <dimen name="charity_progress_bar_radius">50dp</dimen>
+    <dimen name="charity_progress_bar_marginBottom">7dp</dimen>
+    <dimen name="charity_tvTime_marginStart">10dp</dimen>
+    <dimen name="charity_separator_height">1dp</dimen>
+    <dimen name="charity_separator_marginTop">15dp</dimen>
+    <dimen name="charity_amount_height">86dp</dimen>
+    <dimen name="charity_margin_top">1dp</dimen>
+    <dimen name="charity_review_scrollview_height">0dp</dimen>
+    <dimen name="charity_review_image_card_elevation">0dp</dimen>
+    <dimen name="charity_review_image_corner_radius">10dp</dimen>
+    <dimen name="charity_review_image_padding">8dp</dimen>
+    <dimen name="charity_status_first_container_margin_top">40dp</dimen>
+    <dimen name="charity_status_message_margin_top">24dp</dimen>
+    <dimen name="charity_status_container_margin_top">28dp</dimen>
+    <dimen name="charity_status_title_top_margin">24dp</dimen>
+    <dimen name="charity_status_title_width">0dp</dimen>
+    <dimen name="charity_status_margin">16dp</dimen>
+    <dimen name="charity_status_icon_width">40dp</dimen>
+    <dimen name="charity_status_margin_right">20dp</dimen>
+    <dimen name="charity_reference_margin_end">16dp</dimen>
+    <dimen name="donation_auth_margin_top">28dp</dimen>
+    <dimen name="donation_auth_size">40dp</dimen>
+    <dimen name="donation_auth_text_margin_top">24dp</dimen>
+    <dimen name="donation_auth_text_margin_bottom">48dp</dimen>
+    <dimen name="donation_auth_progress_bar_width">40dp</dimen>
+    <dimen name="donation_auth_progress_bar_height">40dp</dimen>
+    <dimen name="donation_auth_progress_margin_top">40dp</dimen>
+    <dimen name="charity_status_title_weight">1</dimen>
+    <dimen name="charity_scrollview_bias">0.5</dimen>
+
+    <dimen name="search_swift_text_margin">8dp</dimen>
+    <dimen name="search_swift_icon_margin_top">4dp</dimen>
+    <dimen name="search_swift_info_margin_start">12dp</dimen>
+    <dimen name="search_swift_dropdown_height">180dp</dimen>
+    <dimen name="search_swift_button_margin_bottom">16dp</dimen>
+
+    <!--   Select Transfer Currency -->
+    <dimen name="select_transfer_currency_padding">32dp</dimen>
+    <dimen name="select_transfer_currency_listing_padding_bottom">8dp</dimen>
+    <dimen name="select_transfer_currency_name_margin_start">24dp</dimen>
+    <dimen name="select_transfer_currency_divider_height">2dp</dimen>
+
+
+    <!--International Payment Review-->
+    <dimen name="international_payment_review_margin_start">24dp</dimen>
+    <dimen name="international_payment_review_margin_end">24dp</dimen>
+    <dimen name="international_payment_review_margin_top">24dp</dimen>
+    <dimen name="international_payment_review_margin_bottom">40dp</dimen>
+    <dimen name="international_payment_review_listing_padding_start">24dp</dimen>
+    <dimen name="international_payment_review_listing_padding_end">24dp</dimen>
+    <dimen name="international_payment_review_listing_padding_top">40dp</dimen>
+    <dimen name="international_payment_review_listing_amount_margin_start">8dp</dimen>
+    <dimen name="international_payment_review_listing_amount_margin_end">8dp</dimen>
+    <dimen name="international_payment_review_listing_value_margin_top">8dp</dimen>
+    <dimen name="international_payment_review_icon_size">40dp</dimen>
+    <dimen name="international_payment_review_title_padding">16dp</dimen>
+
+    <dimen name="donation_auth_fingerprint_image_size">32dp</dimen>
+    <dimen name="donation_auth_fingerprint_image_margin">32dp</dimen>
+    <dimen name="charity_status_success_image_width">105dp</dimen>
+    <dimen name="charity_status_success_image_height">151dp</dimen>
+    <dimen name="charity_celebration_text_margin">16dp</dimen>
+    <dimen name="charity_success_container_padding_start">24dp</dimen>
+    <dimen name="charity_success_container_padding_top">32dp</dimen>
+    <dimen name="charity_success_container_padding_end">24dp</dimen>
+    <dimen name="charity_success_container_padding_bottom">104dp</dimen>
+    <dimen name="charity_success_icon_margin">8dp</dimen>
+    <dimen name="charity_success_title_margin">16dp</dimen>
+    <dimen name="pdf_detail_item_padding">16dp</dimen>
+    <dimen name="pdf_detail_item_value_width">0dp</dimen>
+    <dimen name="pdf_detail_item_icon_margin_start">10dp</dimen>
+
+    <dimen name="saving_item_icon_size">32dp</dimen>
+    <dimen name="saving_aggregate_icon_size">56dp</dimen>
+    <dimen name="saving_item_icon_padding">16dp</dimen>
+    <dimen name="phone_contact_select_share_bullet_size">24dp</dimen>
+    <dimen name="item_phone_contact_margin">24dp</dimen>
+    <dimen name="item_phone_contact_margin_bottom">8dp</dimen>
+    <dimen name="phone_contacts_search_container_margin">16dp</dimen>
+    <dimen name="phone_contacts_search_container_padding_horizontal">16dp</dimen>
+    <dimen name="phone_contacts_search_container_padding_vertical">8dp</dimen>
+    <dimen name="phone_contacts_search_icon_size">24dp</dimen>
+    <dimen name="phone_contacts_search_icon_padding">4dp</dimen>
+    <dimen name="app_outage_padding">24dp</dimen>
+    <dimen name="app_outage_icon_size">180dp</dimen>
+    <dimen name="app_outage_icon_margin_top">38dp</dimen>
+    <dimen name="app_outage_title_margin_top">24dp</dimen>
+    <dimen name="app_outage_desc_margin_top">10dp</dimen>
+
+    <dimen name="account_create_result_layout_padding">24dp</dimen>
+    <dimen name="account_create_result_image_marginTop">18dp</dimen>
+    <dimen name="account_create_result_title_marginTop">24dp</dimen>
+    <dimen name="account_create_result_desc_marginTop">20dp</dimen>
+    <dimen name="account_create_result_button_layout_marginTop">24dp</dimen>
+    <dimen name="account_create_result_button_normal_marginBottom">14dp</dimen>
+
+    <!--Pots Information-->
+    <dimen name="pots_information_title_margin_start">24dp</dimen>
+    <dimen name="pots_information_title_margin_end">24dp</dimen>
+    <dimen name="pots_information_description_margin_top">8dp</dimen>
+    <dimen name="pots_information_description_paddingBottom">16dp</dimen>
+    <dimen name="pots_information_button_create_margin_bottom">24dp</dimen>
+    <dimen name="pots_information_image_margin_top">10dp</dimen>
+    <dimen name="pots_information_title_margin_top">17dp</dimen>
+    <dimen name="pots_information_indicator_margin">8dp</dimen>
+    <dimen name="pots_information_viewpager_margin_top">28dp</dimen>
+    <dimen name="pots_information_page_indicator_margin_bottom">24dp</dimen>
+    <dimen name="pots_information_page_indicator_margin_top">8dp</dimen>
+    <dimen name="pots_information_indicator_height">28dp</dimen>
+
+    <!-- Saving Pots -->
+    <dimen name="savingPots_potTransfer_item_height">80dp</dimen>
+    <dimen name="savingPots_etName_marginTop">28dp</dimen>
+    <dimen name="savingPots_etDescription_marginTop">16dp</dimen>
+    <dimen name="savingPots_monthly_deposit_input_marginTop">48dp</dimen>
+    <dimen name="savingPots_monthly_deposit_link_icon_padding">10dp</dimen>
+    <dimen name="saving_pots_continue_button_margin_bottom">16dp</dimen>
+    <dimen name="savingPots_icons_marginTop">30dp</dimen>
+    <dimen name="savingPots_icons_marginBottom">20dp</dimen>
+    <dimen name="savingPots_icons_icon_size">40dp</dimen>
+    <dimen name="savingPots_icon_margin">10dp</dimen>
+    <dimen name="select_icon_margin">4dp</dimen>
+    <dimen name="savingPots_review_icon_size">56dp</dimen>
+    <dimen name="savingPots_review_name_marginTop">20dp</dimen>
+    <dimen name="savingPots_review_desc_marginTop">16dp</dimen>
+    <dimen name="savingPots_review_whiteContent_marginTop">35dp</dimen>
+    <dimen name="savingPots_review_separator_height">1dp</dimen>
+    <dimen name="savingPots_review_separator_marginTop">24dp</dimen>
+    <dimen name="savingPots_deposit_header_padding">16dp</dimen>
+    <dimen name="savingPots_deposit_margin_small">8dp</dimen>
+    <dimen name="savingPots_deposit_padding_card">10dp</dimen>
+    <dimen name="savingPots_deposit_icon_size">24dp</dimen>
+    <dimen name="savingPots_deposit_button_margin">24dp</dimen>
+    <dimen name="savingPots_deposit_button_margin_bottom">16dp</dimen>
+    <dimen name="savingPots_toolbar_margin_top">12dp</dimen>
+    <dimen name="savingPots_details_itemCategory_marginStart">20dp</dimen>
+    <dimen name="savingPots_details_card_padding">22dp</dimen>
+    <dimen name="savingPots_details_type_marginTop">4dp</dimen>
+    <dimen name="savingPots_details_recyclerview_paddingBottom">60dp</dimen>
+    <dimen name="savingPots_details_buttons_margin">10dp</dimen>
+    <dimen name="savingPots_details_events_height">190dp</dimen>
+    <dimen name="savingPots_details_separator_marginTop">10dp</dimen>
+    <dimen name="savingPots_details_emptyList_marginTop">48dp</dimen>
+    <dimen name="savingPots_details_more_size">50dp</dimen>
+    <dimen name="savingPots_details_more_padding">12dp</dimen>
+    <dimen name="savingPots_details_roundedLayout_marginTop">24dp</dimen>
+    <dimen name="savingPots_details_deposit_margin">16dp</dimen>
+    <dimen name="savingPots_details_listTitle_marginTop">20dp</dimen>
+    <dimen name="savingPots_details_saving_plan_padding">8dp</dimen>
+    <dimen name="savingPots_details_saving_plan_icon">32dp</dimen>
+    <dimen name="savingPots_details_balance_margin_top">28dp</dimen>
+    <dimen name="savingPots_details_interest_box_padding">6dp</dimen>
+    <dimen name="savingPots_details_interest_arrow_size">8dp</dimen>
+    <dimen name="savingPots_details_progress_height">14dp</dimen>
+    <dimen name="savingPots_details_progress_text_margin">8dp</dimen>
+    <dimen name="savingPots_details_progress_text_margin_bottom">4dp</dimen>
+    <dimen name="savingPots_withdraw_icon_size">32dp</dimen>
+    <dimen name="savingPots_withdraw_layout_marginTop">16dp</dimen>
+    <dimen name="savingPots_icon_marginEnd">16dp</dimen>
+    <dimen name="savingPots_fromLayout_padding">20dp</dimen>
+    <dimen name="savingPots_lblTargetAccount_marginTop">32dp</dimen>
+    <dimen name="savingPots_lblTransferFrom_marginBottom">16dp</dimen>
+    <dimen name="savingPots_aggregation_amount_margin">10dp</dimen>
+    <dimen name="savingPots_aggregation_view_padding">17dp</dimen>
+
+    <dimen name="pot_payment_review_padding_start">24dp</dimen>
+    <dimen name="pot_payment_review_padding_end">24dp</dimen>
+    <dimen name="pot_payment_review_padding_top">24dp</dimen>
+    <dimen name="pot_payment_review_icon_margin_start">8dp</dimen>
+    <dimen name="pot_payment_review_icon_width">40dp</dimen>
+    <dimen name="pot_payment_review_icon_heigth">40dp</dimen>
+    <dimen name="pot_payment_review_margin_start">16dp</dimen>
+    <dimen name="pot_payment_header_gone_margin_top">20dp</dimen>
+    <dimen name="pot_payment_value_margin_top">8dp</dimen>
+    <dimen name="pot_payment_review_amount_label_margin_top">40dp</dimen>
+    <dimen name="pot_payment_review_label_margin_top">24dp</dimen>
+    <dimen name="pot_paymment_review_button_margin_bottom">40dp</dimen>
+    <dimen name="pot_payment_please_try_again_text_size">12sp</dimen>
+
+
+    <dimen name="pot_payment_review_scroll_margin_bottom">24dp</dimen>
+    <dimen name="pot_option_item_padding">16dp</dimen>
+    <dimen name="pot_option_right_drawable_margin">8dp</dimen>
+    <dimen name="pot_option_layout_padding">8dp</dimen>
+
+    <!--Pots Listing-->
+    <dimen name="pots_listing_item_card_margin">8dp</dimen>
+    <dimen name="pots_listing_header_line_spacing">10sp</dimen>
+    <dimen name="pots_listing_item_padding">16dp</dimen>
+    <dimen name="pots_listing_padding_horizontal">16dp</dimen>
+    <dimen name="pots_listing_item_pots_icon_size">24dp</dimen>
+    <dimen name="pots_listing_item_pots_progress_bar_width">70dp</dimen>
+    <dimen name="pots_listing_item_pots_progress_bar_height">70dp</dimen>
+    <dimen name="pots_listing_item_pots_name_margin_top">8dp</dimen>
+    <dimen name="pots_listing_item_pots_name_line_spacing">10sp</dimen>
+    <dimen name="pots_listing_item_pots_amount_margin_top">16dp</dimen>
+    <dimen name="pots_listing_header_margin">12dp</dimen>
+    <dimen name="pots_listing_header_padding">8dp</dimen>
+
+    <dimen name="review_account_to_use_margin_end">8dp</dimen>
+
+    <dimen name="saving_tab_item_margin_vertical">8dp</dimen>
+    <dimen name="saving_tab_item_tag_padding_horizontal">6dp</dimen>
+    <dimen name="saving_tab_item_tag_padding_vertical">2dp</dimen>
+    <dimen name="saving_tab_item_icon_margin">32dp</dimen>
+    <dimen name="saving_tab_item_card_margin_horizontal">16dp</dimen>
+    <dimen name="saving_tab_item_card_elevation">8dp</dimen>
+    <dimen name="saving_tab_item_card_margin_top">16dp</dimen>
+    <dimen name="savingPots_deposit_description_padding">25dp</dimen>
+    <dimen name="savingPots_deposit_margin">34dp</dimen>
+    <dimen name="savingPots_deposit_amount_label_margin">34dp</dimen>
+    <dimen name="set_goal_top_margin">30dp</dimen>
+    <dimen name="set_goal_description_margin_top">4dp</dimen>
+    <dimen name="earn_interest_message_padding">8dp</dimen>
+    <dimen name="earn_interest_message_margin_top">16dp</dimen>
+    <dimen name="select_currency_margin">20dp</dimen>
+    <dimen name="select_currency_header_margin">16dp</dimen>
+    <dimen name="select_currency_number_picker_margin_top">8dp</dimen>
+    <dimen name="number_picker_button_positive_margin_top">28dp</dimen>
+    <dimen name="number_picker_button_positive_margin_end">26dp</dimen>
+    <dimen name="number_picker_button_positive_margin_bottom">17dp</dimen>
+    <dimen name="number_picker_button_negative_margin_end">4dp</dimen>
+    <dimen name="setting_description_margin">17dp</dimen>
+    <dimen name="number_picker_text_padding">14dp</dimen>
+    <dimen name="pot_tiers_item_padding">16dp</dimen>
+    <dimen name="pot_tiers_padding">4dp</dimen>
+    <dimen name="pot_tiers_margin_top">8dp</dimen>
+    <dimen name="currency_picker_margin">50dp</dimen>
+    <dimen name="savingPots_earn_interest_margin_top">36dp</dimen>
+    <dimen name="savingPots_activity_title_margin">88dp</dimen>
+    <dimen name="saving_pot_icon_continue_button_margin_bottom">16dp</dimen>
+
+    <dimen name="ila_edittext_radius">8dp</dimen>
+    <dimen name="ila_edittext_margin_top">4dp</dimen>
+    <dimen name="ila_edittext_currency_drawable_padding">6dp</dimen>
+
+    <dimen name="choose_country_text_margin_end">8dp</dimen>
+
+    <dimen name="account_detail_drawable_margin">8dp</dimen>
+    <dimen name="account_detail_tiers_margin_top">8dp</dimen>
+    <dimen name="account_detail_tiers_item_padding">16dp</dimen>
+    <dimen name="account_detail_switch_width">40dp</dimen>
+    <dimen name="account_detail_tiers_padding">4dp</dimen>
+    <dimen name="create_account_button_padding">24dp</dimen>
+    <dimen name="create_Account_account_details_margin_top">26dp</dimen>
+    <dimen name="create_account_earn_interest_margin_end">8dp</dimen>
+    <dimen name="create_account_earn_interest_parent_margin_top">30dp</dimen>
+
+    <dimen name="small_card_margin_start">50dp</dimen>
+    <dimen name="small_card_margin_end">50dp</dimen>
+    <dimen name="linked_account_margin_top">20dp</dimen>
+    <dimen name="myoverview_padding_bottom_view_padding">47dp</dimen>
+    <dimen name="card_request_amount_subscription_text_margintTop">8dp</dimen>
+    <dimen name="card_request_amount_vat_text_margintTop">6dp</dimen>
+    <dimen name="card_request_margin_bottom">40dp</dimen>
+
+    <dimen name="payment_fees_breakdown_badge_height">23dp</dimen>
+    <dimen name="payment_fees_breakdown_badge_margin">5dp</dimen>
+    <dimen name="total_amount_detail_item_list_padding">16dp</dimen>
+    <dimen name="detail_payment_item_list_padding_vertical">4dp</dimen>
+    <dimen name="detail_payment_item_list_padding_horizontal">16dp</dimen>
+    <dimen name="payment_fees_container_detail_margin">12dp</dimen>
+
+    <!-- Referral Code -->
+    <dimen name="referral_code_padding">24dp</dimen>
+    <dimen name="referral_code_icon_padding_top">20dp</dimen>
+    <dimen name="referral_code_title_margin_top">16dp</dimen>
+    <dimen name="referral_code_share_desc_margin_top">8dp</dimen>
+    <dimen name="referral_code_card_margin_top">28dp</dimen>
+    <dimen name="referral_code_code_layout_padding_top">34dp</dimen>
+    <dimen name="referral_code_code_layout_padding_bottom">14dp</dimen>
+    <dimen name="referral_code_txt_code_margin_end">5dp</dimen>
+    <dimen name="referral_code_line_seperator_margin_top">16dp</dimen>
+    <dimen name="referral_code_line_seperator_margin_bottom">14dp</dimen>
+    <dimen name="referral_code_txt_invite_margin_start">8dp</dimen>
+    <dimen name="referral_code_txt_no_of_referral_margin_top">12dp</dimen>
+
+    <dimen name="onboarding_referral_code_edit_icon_marginLeft">10dp</dimen>
+    <dimen name="onboarding_referral_code_label_marginTop">8dp</dimen>
+    <dimen name="referral_code_layout_margin_start">20dp</dimen>
+    <dimen name="referral_code_layout_margin_end">20dp</dimen>
+    <dimen name="referral_code_layout_margin_top">80dp</dimen>
+    <dimen name="referral_code_layout_margin_bottom">32dp</dimen>
+    <dimen name="referral_code_loader_margin_top">32dp</dimen>
+    <dimen name="referral_code_margin">24dp</dimen>
+    <dimen name="referral_button_paddingStart">30dp</dimen>
+    <dimen name="referral_button_paddingTop">15dp</dimen>
+
+    <!-- Custom Calendar -->
+    <dimen name="today_circle_width">6dp</dimen>
+    <dimen name="today_circle_height">6dp</dimen>
+    <dimen name="cell_margin">4dp</dimen>
+    <dimen name="cell_day_number_size">16sp</dimen>
+    <dimen name="month_title_text_size">20dp</dimen>
+    <dimen name="days_layout_top_padding">4dp</dimen>
+    <dimen name="days_layout_bottom_padding">4dp</dimen>
+    <dimen name="day_of_week_width">0dp</dimen>
+    <dimen name="day_of_week_margin_top">4dp</dimen>
+    <dimen name="custom_calendar_line_height">1dp</dimen>
+    <dimen name="custom_calendar_header_top_padding">8dp</dimen>
+    <dimen name="custom_calendar_header_bottom_padding">8dp</dimen>
+    <dimen name="display_current_date_top_margin">4dp</dimen>
+    <dimen name="custom_calendar_cell_padding">2dp</dimen>
+    <dimen name="custom_calendar_cell_hieght">50dp</dimen>
+    <dimen name="custom_calendar_week_height">40dp</dimen>
+    <dimen name="custom_calendar_week_margin_bottom">8dp</dimen>
+    <dimen name="pot_collection_date_padding_bottom">72dp</dimen>
+    <dimen name="pot_collection_date_calendar_margin_top">32dp</dimen>
+    <dimen name="padding_more_option">16dp</dimen>
+    <dimen name="more_option_icon_margin_start">16dp</dimen>
+    <dimen name="more_option_icon_width">24dp</dimen>
+    <dimen name="more_option_icon_height">24dp</dimen>
+    <dimen name="more_option_switch_margin">12dp</dimen>
+    <dimen name="line_width">3dp</dimen>
+    <dimen name="confirm_pot_margin_start">17dp</dimen>
+    <dimen name="confirm_pot_margin_end">16dp</dimen>
+    <dimen name="confirm_pot_margin_top">36dp</dimen>
+    <dimen name="confirm_pot_rounded_box_height">52dp</dimen>
+    <dimen name="confirm_pot_margin_end_edit">7dp</dimen>
+    <dimen name="confirm_pot_view_margin_top">32dp</dimen>
+
+    <dimen name="confirm_pot_line_indicator_margin">11dp</dimen>
+    <dimen name="confirm_pot_name_margin_top">12dp</dimen>
+    <dimen name="confirm_pot_description_margin_top">16dp</dimen>
+    <dimen name="confirm_pot_tip_margin_top">10dp</dimen>
+    <dimen name="confirm_pot_view_create_margin_bottom">18dp</dimen>
+    <dimen name="confirm_pot_view_hassala_setting_margin_bottom">24dp</dimen>
+    <dimen name="confirm_pot_view_margin_bottom">8dp</dimen>
+    <dimen name="confirm_pot_tip_line_spacing">6sp</dimen>
+    <dimen name="confirm_pot_date_line_spacing">4sp</dimen>
+    <dimen name="confirm_pot_line_indicator_height">28dp</dimen>
+    <dimen name="custom_text_view_margin_top">8dp</dimen>
+    <dimen name="_custom_text_box_rounded_box_padding">16dp</dimen>
+    <dimen name="copy_icon_margin_start">4sp</dimen>
+    <dimen name="money_layout_margin_bottom">16dp</dimen>
+    <dimen name="transaction_back_icon_padding">10dp</dimen>
+    <dimen name="in_out_layout_height">48dp</dimen>
+    <dimen name="in_out_layout_padding">16sp</dimen>
+    <dimen name="change_language_logo_size">48dp</dimen>
+    <dimen name="iban_letter_marginTop">32dp</dimen>
+    <dimen name="iban_letter_btn_padding">5dp</dimen>
+    <dimen name="iban_letter_separator_marginTop">10dp</dimen>
+    <dimen name="iban_letter_shareBtn_margin">46dp</dimen>
+    <dimen name="iban_letter_layout_margin">20dp</dimen>
+    <dimen name="transaction_sticky_bar_padding">8dp</dimen>
+
+    <!--jameya-->
+    <dimen name="jameya_name_margin_top">24dp</dimen>
+    <dimen name="jameya_descri_margin_top">32dp</dimen>
+    <dimen name="jameya_descri_padding">16dp</dimen>
+    <dimen name="jameya_next_button_margin_bottom">16dp</dimen>
+    <dimen name="jameya_validation_hint_margin_top">8dp</dimen>
+    <dimen name="jameya_start_date_next_button_margin_bottom">40dp</dimen>
+    <dimen name="jameya_currency_margin_bottom">32dp</dimen>
+    <dimen name="jameya_icons_marginTop">20dp</dimen>
+    <dimen name="jameya_icons_marginBottom">20dp</dimen>
+    <dimen name="jameya_amount_inputText_height">86dp</dimen>
+    <dimen name="jameya_amount_button_height">48dp</dimen>
+    <dimen name="jameya_amount_button_margin">16dp</dimen>
+    <dimen name="jameya_amount_container_padding_h">24dp</dimen>
+    <dimen name="jameya_amount_margin">5dp</dimen>
+    <dimen name="ts_jameya_monthlyPayout">12sp</dimen>
+    <dimen name="ts_jameya_payoutCurrency">10sp</dimen>
+    <dimen name="jameya_start_date_scroll_padding_bottom">96dp</dimen>
+    <dimen name="number_picker_center_line_margin">32dp</dimen>
+    <dimen name="number_picker_center_line_height">2dp</dimen>
+    <dimen name="shares_picker_width">64dp</dimen>
+    <dimen name="jameya_review_icon_size">44dp</dimen>
+    <dimen name="jameya_review_countdown_margin_top">8dp</dimen>
+    <dimen name="jameya_review_divider">1dp</dimen>
+    <dimen name="jameya_set_icon_margin">20dp</dimen>
+    <dimen name="jameya_set_icon_list_margin">16dp</dimen>
+    <dimen name="jameya_start_date_calendar_margin_top">8dp</dimen>
+    <dimen name="jameya_intro_next_button_margin">16dp</dimen>
+    <dimen name="jameya_min_age_padding">24dp</dimen>
+    <dimen name="jameya_min_age_icon_margin_top">38dp</dimen>
+    <dimen name="jameya_min_age_title_margin_top">24dp</dimen>
+    <dimen name="jameya_min_age_desc_margin_top">10dp</dimen>
+    <dimen name="jameya_min_age_icon_width">200dp</dimen>
+    <dimen name="jameya_min_age_icon_height">200dp</dimen>
+
+    <dimen name="arrow_width">0dp</dimen>
+    <dimen name="month_title_width">0dp</dimen>
+    <dimen name="jameya_list_margin">16dp</dimen>
+    <dimen name="jameya_list_padding">12dp</dimen>
+    <dimen name="jameya_list_item_card_margin">8dp</dimen>
+    <dimen name="jameya_list_item_card_padding_horizontal">24dp</dimen>
+    <dimen name="jameya_list_item_card_padding_top">12dp</dimen>
+    <dimen name="jameya_list_item_card_padding_bottom">20dp</dimen>
+    <dimen name="jameya_select_share_container_height">72dp</dimen>
+    <dimen name="jameya_select_share_bullet_size">24dp</dimen>
+    <dimen name="jameya_select_share_text_margin">16dp</dimen>
+    <dimen name="jameya_select_share_description_margin">40dp</dimen>
+    <dimen name="jameya_select_share_amountlbl_margin">8dp</dimen>
+    <dimen name="jameya_select_share_amount_margin">20dp</dimen>
+    <dimen name="jameya_select_share_list_margin">16dp</dimen>
+    <dimen name="jameya_select_share_list_padding">88dp</dimen>
+    <dimen name="jameya_select_share_next_button_margin">40dp</dimen>
+    <dimen name="jameya_intro_layout_padding">24dp</dimen>
+    <dimen name="jameya_intro_image_marginTop">38dp</dimen>
+    <dimen name="jameya_intro_title_marginTop">38dp</dimen>
+    <dimen name="jameya_intro_description_marginTop">8dp</dimen>
+    <dimen name="jameya_list_item_amount_header_margin_top">20dp</dimen>
+    <dimen name="jameya_list_item_share_text_margin_end">16dp</dimen>
+    <dimen name="jameya_list_item_share_margin_top">12dp</dimen>
+    <dimen name="jameya_list_item_designation_margin">12dp</dimen>
+    <dimen name="jameya_list_item_icon_padding">4dp</dimen>
+    <dimen name="jameya_list_item_icon_size">40dp</dimen>
+    <dimen name="jameya_list_item_payout_margin">8dp</dimen>
+    <dimen name="jameya_list_header_size">48dp</dimen>
+    <dimen name="jameya_list_header_title_margin">8dp</dimen>
+    <dimen name="jameya_list_header_amount_margin">12dp</dimen>
+    <dimen name="jameya_list_header_icon_margin">8dp</dimen>
+    <dimen name="jameya_details_invite_you_marginStart">5dp</dimen>
+    <dimen name="jameya_details_invite_you_vertical_padding">2dp</dimen>
+    <dimen name="jameya_details_invite_you_horizontal_padding">4dp</dimen>
+    <dimen name="jameya_details_label_vertical_padding">2dp</dimen>
+    <dimen name="jameya_details_label_horizontal_padding">8dp</dimen>
+    <dimen name="jameya_details_shareDate_marginTop">2dp</dimen>
+    <dimen name="jameya_details_inviteItem_paddingTop">17dp</dimen>
+    <dimen name="jameya_details_separator_marginTop">20dp</dimen>
+    <dimen name="jameya_details_footer_marginTop">30dp</dimen>
+    <dimen name="jameya_details_footer_marginBottom">20dp</dimen>
+    <dimen name="jameya_details_footer_inviteParticipants_margin">12dp</dimen>
+    <dimen name="jameya_details_footer_inviteParticipants_plus_margin">10dp</dimen>
+    <dimen name="jameya_details_special_values_marginTop">20dp</dimen>
+    <dimen name="jameya_details_container_marginTop">32dp</dimen>
+    <dimen name="jameya_details_swipeView_margin">5dp</dimen>
+    <dimen name="jameya_details_swipeView_iconSize">16dp</dimen>
+    <dimen name="jameya_details_swipeView_textSize">80dp</dimen>
+    <dimen name="jameya_details_radius">15dp</dimen>
+    <dimen name="jameya_details_paymentsCell_separator_height">2dp</dimen>
+    <dimen name="jameya_details_paymentsCell_padding">16dp</dimen>
+    <dimen name="jameya_details_payments_footer_margin_top">8dp</dimen>
+    <dimen name="jameya_details_paymentsCell_icon_marginTop">4dp</dimen>
+    <dimen name="jameya_details_paymentsCell_failure_padding">8dp</dimen>
+    <dimen name="jameya_details_paymentsCell_statusIcon_margin">10dp</dimen>
+    <dimen name="jameya_details_paymentsCell_title_marginBottom">10dp</dimen>
+    <dimen name="jameya_invite_container_background_padding">130dp</dimen>
+    <dimen name="jameya_invite_participant_selected_text_margin">16dp</dimen>
+    <dimen name="jameya_invite_participant_padding_bottom">128dp</dimen>
+    <dimen name="jameya_participant_review_invite_text_margin">48dp</dimen>
+    <dimen name="jameya_participant_review_padding">16dp</dimen>
+    <dimen name="jameya_participant_review_icon_size">62dp</dimen>
+    <dimen name="jameya_participant_review_icon_padding">8dp</dimen>
+    <dimen name="jameya_participant_review_payout_margin">8dp</dimen>
+    <dimen name="jameya_participant_review_description_margin">16dp</dimen>
+    <dimen name="jameya_participant_review_container_margin">8dp</dimen>
+    <dimen name="jameya_participant_review_countdown_margin">8dp</dimen>
+    <dimen name="jameya_participant_review_countdown_margin_bottom">12dp</dimen>
+    <dimen name="jameya_participant_review_last_section_margin_bottom">32dp</dimen>
+    <dimen name="jameya_participant_select_share_padding">16dp</dimen>
+    <dimen name="jameya_participant_select_share_padding_top">32dp</dimen>
+    <dimen name="jameya_participant_select_share_padding_bottom">20dp</dimen>
+    <dimen name="jameya_participant_select_share_button_margin">32dp</dimen>
+    <dimen name="jameya_details_footer_lock_jameya_margin">8dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_padding_bottom">24dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_padding_horizontal">48dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_icon_size">84dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_icon_padding">8dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_icon_margin">8dp</dimen>
+    <dimen name="jameya_list_add_new_jameya_link_margin_top">16dp</dimen>
+    <dimen name="jameya_list_invite_offset">4dp</dimen>
+    <dimen name="jameya_list_item_elevation">8dp</dimen>
+    <dimen name="jameya_list_hader_icon_size">24dp</dimen>
+    <dimen name="jameya_list_lock_margin_end">5dp</dimen>
+    <dimen name="active_jameya_circle_stroke_size">60dp</dimen>
+    <dimen name="active_jameya_detail_holder_wheel_view_stoke_overlap">4dp</dimen>
+    <dimen name="jameya_toolbar_name_container_margin_top">84dp</dimen>
+    <dimen name="jameya_toolbar_name_container_margin_bottom">28dp</dimen>
+    <dimen name="jameya_toolbar_description_margin_top">128dp</dimen>
+    <dimen name="jameya_toolbar_margin">16dp</dimen>
+    <dimen name="active_jameya_share_margin">6dp</dimen>
+    <dimen name="active_jameya_detail_holder_margin">16dp</dimen>
+    <dimen name="active_jameya_detail_holder_extra_info_margin">8dp</dimen>
+    <dimen name="active_jameya_detail_holder_wheel_view_margin">12dp</dimen>
+    <dimen name="active_jameya_detail_holder_additional_info_margin">40dp
+    </dimen>
+    <dimen name="active_jameya_detail_holder_additional_info_margin_top">48dp
+    </dimen>
+    <dimen name="active_jameya_detail_center_view_divider_margin_h">40dp</dimen>
+    <dimen name="active_jameya_detail_center_view_divider_margin_v">8dp</dimen>
+    <dimen name="active_jameya_detail_center_view_clicked_month_margin">12dp
+    </dimen>
+    <dimen name="active_jameya_share_middle_view_name_init_size">40dp</dimen>
+    <dimen name="active_jameya_share_middle_view_name_margin">12dp</dimen>
+    <dimen name="active_jameya_share_middle_view_designation_margin">4dp</dimen>
+    <dimen name="active_jameya_share_middle_view_designation_padding_h">4dp</dimen>
+    <dimen name="active_jameya_share_middle_view_designation_padding_v">2dp</dimen>
+    <dimen name="active_jameya_share_middle_view_month_margin">8dp</dimen>
+    <dimen name="active_jameya_share_middle_view_button_margin">
+        24dp
+    </dimen>
+    <dimen name="active_jameya_share_middle_view_button_margin_h">16dp</dimen>
+    <dimen name="active_jameya_share_middle_view_button_padding">6dp</dimen>
+    <dimen name="completed_jameya_icon_size">56dp</dimen>
+    <dimen name="completed_jameya_icon_padding">8dp</dimen>
+    <dimen name="completed_jameya_description_margin_h">24dp</dimen>
+    <dimen name="completed_jameya_description_margin_v">12dp</dimen>
+    <dimen name="jameya_share_statment_margin_bottom">39dp</dimen>
+    <dimen name="jameya_participant_addParticipant_clickSize">40dp</dimen>
+    <dimen name="jameya_participant_addParticipant_iconSize">14dp</dimen>
+    <dimen name="jameya_participant_designation_margin">4dp</dimen>
+    <dimen name="jameya_participant_list_margin">50dp</dimen>
+    <dimen name="jameya_participant_listItemMonth_size">50dp</dimen>
+    <dimen name="jameya_participant_listItem_height">65dp</dimen>
+    <dimen name="jameya_participant_listItem_paddingStart">81dp</dimen>
+    <dimen name="jameya_participant_listItem_padding">8dp</dimen>
+    <dimen name="jameya_exit_marginTop">90dp</dimen>
+    <dimen name="jameya_exit_layout_marginTop">50dp</dimen>
+    <dimen name="jameya_exit_tvMsg1_marginTop">60dp</dimen>
+    <dimen name="jameya_exit_tvMsg2_marginTop">20dp</dimen>
+    <dimen name="jameya_exit_margin">32dp</dimen>
+    <dimen name="jameya_exit_btnSubmit_padding">12dp</dimen>
+    <dimen name="jameya_payment__list_stop_jameya_marginTop">36dp</dimen>
+    <dimen name="jameya_payment__list_stop_jameya_marginBottom">20dp</dimen>
+    <dimen name="jameya_payment__list_stop_jameya_padding">12dp</dimen>
+
+
+    <dimen name="ila_review_rounded_box_height">52dp</dimen>
+    <dimen name="ila_review_rounded_box_margin_top">10dp</dimen>
+    <dimen name="ila_review_rounded_box_padding">16dp</dimen>
+    <dimen name="ila_review_date_line_spacing">4sp</dimen>
+    <dimen name="ila_review_line_indicator_margin">11dp</dimen>
+    <dimen name="jameya_review_button_margin_bottom">24dp</dimen>
+    <dimen name="jameya_review_edit_margin_bottom">48dp</dimen>
+    <dimen name="jameya_review_description_margin_top">16dp</dimen>
+    <dimen name="jameya_review_monthly_payout_margin_top">40dp</dimen>
+    <dimen name="jameya_review_divider_margin">16dp</dimen>
+    <dimen name="jameya_manual_transfer_status_margin_start">16dp</dimen>
+    <dimen name="jameya_manual_transfer_amount_margin">32dp</dimen>
+    <dimen name="jameya_manual_transfer_value_margin">8dp</dimen>
+
+    <!-- Credit Card -->
+    <dimen name="credit_card_quick_action_image_height">42dp</dimen>
+    <dimen name="credit_card_quick_action_image_width">42dp</dimen>
+    <dimen name="credit_card_action_image_size">21dp</dimen>
+    <dimen name="credit_card_ila_promotion_badge_height">12dp</dimen>
+    <dimen name="credit_card_ila_promotion_badge_start">5dp</dimen>
+    <dimen name="add_new_credit_card_button_margin">24dp</dimen>
+    <dimen name="add_new_credit_card_button_margin_bottom">36dp</dimen>
+    <dimen name="add_new_credit_card_layout_padding_bottom">60dp</dimen>
+    <dimen name="add_new_credit_card_layout_padding_top">24dp</dimen>
+    <dimen name="add_new_credit_card_line_margin_top">13dp</dimen>
+    <dimen name="add_new_credit_card_fees_margin_top">18dp</dimen>
+    <dimen name="add_new_credit_card_view_pager_height">260dp</dimen>
+    <dimen name="add_new_credit_card_button_corner_radius">30dp</dimen>
+    <dimen name="add_new_card_page_indicator_margin_bottom">16dp</dimen>
+    <dimen name="cc_eligibility_title_margin_start">24dp</dimen>
+    <dimen name="cc_eligibility_title_margin_top">50dp</dimen>
+    <dimen name="cc_eligibility_title_margin_end">24dp</dimen>
+    <dimen name="cc_eligibility_description_margin_top">20dp</dimen>
+    <dimen name="cc_eligibility_description_paddingBottom">16dp</dimen>
+    <dimen name="cc_eligibility_buttons_marginBottom">46dp</dimen>
+    <dimen name="cc_eligibility_buttons_margin">8dp</dimen>
+    <dimen name="cc_income_marginTop">32dp</dimen>
+    <dimen name="cc_income_marginEnd">5dp</dimen>
+    <dimen name="cc_income_error_marginTop">8dp</dimen>
+    <dimen name="credit_cared_title_line_spacing">12sp</dimen>
+    <dimen name="credit_card_emp_list_margin_bottom">40dp</dimen>
+    <dimen name="credit_cared_helper_text_line_spacing">2sp</dimen>
+    <dimen name="credit_cared_helper_text_margin_bottom">36dp</dimen>
+    <dimen name="cc_phone_marginTop">40dp</dimen>
+    <dimen name="cc_selectContact_paddingBottom">128dp</dimen>
+    <dimen name="cc_selectContact_marginBottom">40dp</dimen>
+    <dimen name="cc_address_marginTop">32dp</dimen>
+    <dimen name="cc_contact_disclaimer_marginBottom">32dp</dimen>
+    <dimen name="cc_limit_marginTop">52dp</dimen>
+    <dimen name="cc_co_brand_desc_horizontal_margin">32dp</dimen>
+    <dimen name="cc_co_brand_title_horizontal_margin">20dp</dimen>
+    <dimen name="cc_desc_margin_horizontal">42dp</dimen>
+    <dimen name="cc_membership_number_margin_top">56dp</dimen>
+    <dimen name="cc_co_brand_membership_number_horizontal_margin">24dp</dimen>
+    <dimen name="cc_co_brand_skip_margin_top">32dp</dimen>
+    <dimen name="cc_desc_margin_bottom">32dp</dimen>
+    <dimen name="cc_request_image_height">300dp</dimen>
+    <dimen name="credit_card_employer_search_input_margin_top">40dp</dimen>
+    <dimen name="credit_card_employer_search_horizontal_padding">12dp</dimen>
+    <dimen name="credit_card_employer_search_vertical_padding">8dp</dimen>
+    <dimen name="credit_card_employer_header_margin_top">10dp</dimen>
+    <dimen name="cc_terms_notch_width">40dp</dimen>
+    <dimen name="cc_terms_notch_height">8dp</dimen>
+    <dimen name="cc_terms_margin">32dp</dimen>
+    <dimen name="cc_terms_lineSpacing">8dp</dimen>
+    <dimen name="cc_limit_marginStart">8dp</dimen>
+    <dimen name="cc_limit_currency_marginTop">8dp</dimen>
+    <dimen name="cc_activate_button_vertical_padding">12dp</dimen>
+    <dimen name="credit_card_btn_card_activate_margin_top">28dp</dimen>
+    <dimen name="credit_card_btn_card_benefits_margin_top">32dp</dimen>
+    <dimen name="credit_card_icon_notification_title_margin_top">20dp</dimen>
+    <dimen name="cc_next_item_visible">20dp</dimen>
+    <dimen name="cc_home_address_marginTop">24dp</dimen>
+    <dimen name="cc_home_verticalPadding">10dp</dimen>
+    <dimen name="cc_home_horizontalPadding">12dp</dimen>
+    <dimen name="cc_home_marginTop">16dp</dimen>
+    <dimen name="credit_card_pending_status_horizontal_margin">24dp</dimen>
+    <dimen name="credit_card_pending_status_messages_elevation">3dp</dimen>
+    <dimen name="credit_card_pending_message_padding_horizontal">16dp</dimen>
+    <dimen name="credit_card_pending_message_padding_vertical">18dp</dimen>
+    <dimen name="credit_card_pending_message_desc_margin_top">6dp</dimen>
+    <dimen name="credit_card_overview_bottom_padding">30dp</dimen>
+    <dimen name="credit_card_pending_message_benefit_button_margin_top">16dp</dimen>
+    <dimen name="credit_card_upload_message_header_padding_horizontal">16dp</dimen>
+    <dimen name="credit_card_upload_message_header_padding_vertical">10dp</dimen>
+    <dimen name="credit_card_upload_message_header_title_margin_top">5dp</dimen>
+    <dimen name="credit_card_upload_message_line_height">2dp</dimen>
+    <dimen name="credit_card_upload_message_body_padding_horizontal">16dp</dimen>
+    <dimen name="credit_card_upload_message_body_padding_vertical">18dp</dimen>
+    <dimen name="credit_card_upload_message_body_title_padding_bottom">22dp</dimen>
+    <dimen name="credit_card_upload_message_email_item_padding_bottom">16dp</dimen>
+    <dimen name="credit_card_pending_status_padding_bottom">30dp</dimen>
+    <dimen name="credit_card_current_icon_width">44dp</dimen>
+    <dimen name="credit_card_current_icon_margin">24dp</dimen>
+    <dimen name="credit_card_current_message_body_padding_vertical">8dp</dimen>
+    <dimen name="credit_card_current_message_body_padding_horizontal">12dp</dimen>
+    <dimen name="credit_card_current_message_desc_margin_top">8dp</dimen>
+    <dimen name="credit_card_current_message_layout_margin_bottom">4dp</dimen>
+    <dimen name="credit_card_detail_card_corner_radius">8dp</dimen>
+    <dimen name="credit_card_detail_card_elevation">5dp</dimen>
+    <dimen name="credit_card_progress_height">10dp</dimen>
+    <dimen name="credit_card_details_button_height">30dp</dimen>
+    <dimen name="credit_card_detail_card_min_height">100dp</dimen>
+    <dimen name="credit_card_detail_card_width">350dp</dimen>
+    <dimen name="credit_card_detail_payment_date_icon_size">15dp</dimen>
+    <dimen name="credit_card_detail_cash_back_icon_size">25dp</dimen>
+    <dimen name="credit_card_selected_elevation">5dp</dimen>
+    <dimen name="credit_card_normal_elevation">0dp</dimen>
+    <dimen name="credit_card_detail_add_equal_icon_size">30dp</dimen>
+    <dimen name="credit_card_supplementary_card_height">100dp</dimen>
+
+    <!-- BaseBottom Sheet -->
+    <dimen name="credit_card_details_card_height">180dp</dimen>
+    <dimen name="credit_card_details_card_width">300dp</dimen>
+    <dimen name="credit_card_details_margin">200dp</dimen>
+    <dimen name="base_bottom_sheet_drag_line_width">40dp</dimen>
+    <dimen name="base_bottom_sheet_drag_line_height">1dp</dimen>
+    <dimen name="base_bottom_sheet_notch_height">5dp</dimen>
+    <dimen name="base_bottom_sheet_drawable_width">60dp</dimen>
+    <dimen name="base_bottom_sheet_drawable_height">60dp</dimen>
+
+    <!-- Auth Dialogue -->
+    <dimen name="auth_dialogue_content_padding">16dp</dimen>
+    <dimen name="auth_dialogue_title_margin">@dimen/margin_16dp</dimen>
+    <dimen name="auth_dialogue_pin_view_margin">@dimen/margin_16dp</dimen>
+    <dimen name="auth_dialogue_biometric_indicator_margin">@dimen/margin_40dp</dimen>
+    <dimen name="biometric_indicator_min_size">80dp</dimen>
+    <dimen name="biometric_indicator_size">80dp</dimen>
+    <dimen name="biometric_indicator_action">14sp</dimen>
+    <dimen name="biometric_indicator_title">18sp</dimen>
+    <dimen name="bottom_bar_line_size">40dp</dimen>
+    <dimen name="view_navbar_toggle_wrapper_height">55dp</dimen>
+    <dimen name="rdc_form_target_product_selector_card_height">75dp</dimen>
+    <dimen name="target_accounts_selector_dot_size">4dp</dimen>
+    <dimen name="transactions_filter_fields_gap_margin">7.5dp</dimen>
+
+    <!--TransactionsFilterDialogue -->
+    <dimen name="transactions_filter_dialogue_date_icon_size">25dp</dimen>
+    <dimen name="transactions_filter_dialogue_date_segment_control_height">35dp</dimen>
+    <dimen name="filter_indicator_size">4dp</dimen>
+
+    <!-- Credit Card balance transfer -->
+    <dimen name="balance_transfer_chip_image_width">25dp</dimen>
+    <dimen name="balance_transfer_chip_image_height">19dp</dimen>
+
+
+    <!-- CreditCardRewardDetailsWidgetView -->
+    <dimen name="credit_Card_reward_details_title_min_size">10sp</dimen>
+    <dimen name="credit_Card_reward_details_title_max_size">22sp</dimen>
+    <dimen name="credit_Card_reward_details_total_pint_text_size">36sp</dimen>
+    <dimen name="credit_Card_reward_details_chart_height_size">200dp</dimen>
+    <dimen name="credit_Card_reward_details_selected_pint_text_size">28sp</dimen>
+    <dimen name="credit_Card_reward_details_selected_pint_min_width">80dp</dimen>
+
+    <!-- CreditCardRewardHistoryWidget -->
+    <dimen name="header_spacing">40dp</dimen>
+    <dimen name="reward_history_image_size">32dp</dimen>
+
+    <dimen name="transaction_no_search_message_body_padding_vertical">24dp</dimen>
+    <dimen name="transaction_filter_padding_left">8dp</dimen>
+    <dimen name="transaction_filter_active_icon_margin_top">6dp</dimen>
+    <dimen name="transaction_filter_icon_margin_end">3dp</dimen>
+    <dimen name="filter_dialog_width">18dp</dimen>
+    <dimen name="filter_dialog_height">22dp</dimen>
+    <dimen name="filter_dialog_margin_top">15dp</dimen>
+    <dimen name="filter_dialog_status_horizontal_padding">20dp</dimen>
+    <dimen name="filter_status_margin_top">5dp</dimen>
+    <dimen name="filter_labels_margin_top">10dp</dimen>
+    <dimen name="filter_label_margin_bottom">7dp</dimen>
+    <dimen name="clear_fitler_padding_vertical">12dp</dimen>
+    <dimen name="filter_card_width">95dp</dimen>
+    <dimen name="filter_card_height">62dp</dimen>
+    <dimen name="filter_card_padding">8dp</dimen>
+    <dimen name="transaction_padding_vertical">10dp</dimen>
+    <dimen name="cc_payment_due_date_icon_size">15dp</dimen>
+    <dimen name="transaction_filter_drop_down_height">40dp</dimen>
+    <dimen name="transaction_detail_print_label">10sp</dimen>
+    <dimen name="_22dp">22dp</dimen>
+    <dimen name="_16sp">16sp</dimen>
+    <dimen name="_12sp">12sp</dimen>
+    <dimen name="_14sp">14sp</dimen>
+    <dimen name="_18sp">18sp</dimen>
+    <dimen name="_8sp">8sp</dimen>
+    <dimen name="salary_38dp">38dp</dimen>
+    <dimen name="salary_14sp">14sp</dimen>
+    <dimen name="salary_35dp">35dp</dimen>
+    <dimen name="margin_42dp">42dp</dimen>
+    <!-- ScanCardHolderIDIllustrationWidget -->
+    <dimen name="illustration_img_width">150dp</dimen>
+    <dimen name="illustration_img_height">180dp</dimen>
+    <dimen name="edit_icon_size">15dp</dimen>
+
+    <dimen name="ila_Card_view_shimmer_view_margin">65dp</dimen>
+    <dimen name="Card_action_shimmer_view_height">150dp</dimen>
+    <dimen name="Card_action_shimmer_card_view_height">50dp</dimen>
+
+    <!-- CreditCardSpendingLimitMonthlyWidgetView -->
+    <dimen name="set_limit_radius">12dp</dimen>
+
+
+    <dimen name="ila_offers_radio_button_height">36dp</dimen>
+    <dimen name="offers_radio_button_width">120dp</dimen>
+    <dimen name="padding_5dp">5dp</dimen>
+    <dimen name="margin_50dp">50dp</dimen>
+    <dimen name="ila_offers_icon_size">24dp</dimen>
+    <dimen name="ila_offers_info_size">14dp</dimen>
+    <dimen name="offer_cell_size">120dp</dimen>
+    <dimen name="offer_category_cell_height">94dp</dimen>
+    <dimen name="offer_detail_applicable_offer_image_height">60dp</dimen>
+    <dimen name="offer_detail_applicable_offer_image_width">30.9dp</dimen>
+
+    <dimen name="credit_card_view_copy_margin">0dp</dimen>
+    <dimen name="credit_card_view_copy_margin_bottom">62dp</dimen>
+    <!--    Kanz-->
+    <dimen name="kanz_settings_bottom_sheet_image_size">40dp</dimen>
+    <dimen name="carousel_selector_dot_size">5dp</dimen>
+    <dimen name="kanz_detail_icon">64dp</dimen>
+    <dimen name="kanz_money_bag_icon">14dp</dimen>
+    <dimen name="_68dp">68dp</dimen>
+    <dimen name="_20dp">20dp</dimen>
+    <dimen name="_30dp">30dp</dimen>
+    <dimen name="_3dp">3dp</dimen>
+    <dimen name="_1dp">1dp</dimen>
+    <dimen name="_5dp">5dp</dimen>
+    <dimen name="_10sp">10sp</dimen>
+    <dimen name="kanz_172dp">172dp</dimen>
+    <dimen name="kanz_55dp">55dp</dimen>
+    <dimen name="kanz_36dp">36dp</dimen>
+    <dimen name="kanz_96dp">96dp</dimen>
+    <dimen name="Kanz_34dp">34dp</dimen>
+    <dimen name="Kanz_32sp">32sp</dimen>
+    <dimen name="kanz_47dp">47dp</dimen>
+    <dimen name="kanz_54dp">54dp</dimen>
+    <dimen name="kanz_70dp">70dp</dimen>
+    <dimen name="kanz_13dp">13dp</dimen>
+    <dimen name="kanz_22dp">22dp</dimen>
+    <dimen name="kanz_minus_34dp">-34dp</dimen>
+    <dimen name="kanz_100dp">100dp</dimen>
+    <dimen name="kanz_200dp">200dp</dimen>
+    <dimen name="kanz_gift43dp">43dp</dimen>
+    <dimen name="kanz_127dp">127dp</dimen>
+    <dimen name="Kanz_30dp">30dp</dimen>
+    <dimen name="kanz_41dp">41dp</dimen>
+    <dimen name="kanz_72dp">72dp</dimen>
+    <dimen name="kanz_157dp">157dp</dimen>
+    <dimen name="kanz_121dp">121dp</dimen>
+    <dimen name="kanz_133dp">133dp</dimen>
+    <dimen name="kanz_420dp">420dp</dimen>
+    <dimen name="kanz_44sp">44sp</dimen>
+    <dimen name="kanz_40sp">40sp</dimen>
+
+    <dimen name="debit_card_activate_width">193dp</dimen>
+    <dimen name="debit_card_activate_height">114dp</dimen>
+    <dimen name="debit_card_viewpager_next_item_visible">25dp</dimen>
+    <dimen name="debit_card_viewpager_current_item_horizontal_margin">48dp</dimen>
+    <!-- Investment TAB -->
+    <dimen name="investment_tab_item_card_margin_top">16dp</dimen>
+    <dimen name="term_deposit_tab_item_card_margin_horizontal">16dp</dimen>
+    <dimen name="term_deposit_tab_item_card_elevation">8dp</dimen>
+    <dimen name="term_deposit_tab_item_margin_vertical">8dp</dimen>
+    <dimen name="term_deposit_tab_item_tag_padding_vertical">2dp</dimen>
+    <dimen name="term_deposit_item_tag_padding_horizontal">6dp</dimen>
+    <dimen name="term_deposit_item_icon_size">32dp</dimen>
+    <dimen name="term_deposit_tab_item_icon_margin">32dp</dimen>
+    <dimen name="term_deposit_item_icon_padding">16dp</dimen>
+
+    <!-- Term Deposit -->
+    <dimen name="term_deposit_information_viewpager_margin_top">28dp</dimen>
+    <dimen name="term_deposit_information_indicator_height">28dp</dimen>
+    <dimen name="term_deposit_information_page_indicator_margin_bottom">24dp</dimen>
+    <dimen name="term_deposit_information_title_margin_start">24dp</dimen>
+    <dimen name="term_deposit_information_title_margin_end">24dp</dimen>
+    <dimen name="term_deposit_information_description_margin_top">8dp</dimen>
+    <dimen name="term_deposit_information_button_create_margin_bottom">24dp</dimen>
+    <dimen name="term_deposit_information_indicator_margin">4dp</dimen>
+    <dimen name="term_deposit_information_title_margin_top">17dp</dimen>
+    <dimen name="term_deposit_information_description_paddingBottom">16dp</dimen>
+    <dimen name="termDeposit_etTermDepositName_marginTop">82dp</dimen>
+    <dimen name="term_deposit_amount_selection_etAmount_marginTop">24dp</dimen>
+    <dimen name="term_deposit_amount_selection_seekbar_marginTop">12dp</dimen>
+    <dimen name="term_deposit_choose_title_margin_start">24dp</dimen>
+    <dimen name="term_deposit_choose_title_margin_end">24dp</dimen>
+    <dimen name="term_deposit_choose_button_create_margin_bottom">24dp</dimen>
+    <dimen name="term_deposit_choose_card_margin_horizontal">16dp</dimen>
+    <dimen name="term_deposit_choose_card_elevation">8dp</dimen>
+    <dimen name="term_deposit_choose_card_icon_margin">32dp</dimen>
+    <dimen name="choose_account_status_icon_size">24dp</dimen>
+    <dimen name="term_deposit_choose_item_icon_padding">16dp</dimen>
+
+    <dimen name="period_rate_viewpager_next_item_visible">82dp</dimen>
+    <dimen name="period_rate_viewpager_current_item_horizontal_margin">94dp</dimen>
+    <dimen name="term_deposit_period_rate_indicator_margin">4dp</dimen>
+    <dimen name="term_deposit_period_indicator_height">28dp</dimen>
+    <dimen name="term_deposit_period_rounded_box_margin_top">10dp</dimen>
+    <dimen name="term_deposit_period_rounded_box_height">52dp</dimen>
+    <dimen name="term_deposit_period_rounded_box_padding">16dp</dimen>
+
+    <dimen name="circular_seek_bar_height_300dp">300dp</dimen>
+    <dimen name="circular_seek_bar_width_300dp">300dp</dimen>
+    <dimen name="circular_seek_bar_stroke_width">30dp</dimen>
+    <dimen name="image_size_6dp">6dp</dimen>
+    <dimen name="image_size_10dp">10dp</dimen>
+    <dimen name="image_size_15dp">15dp</dimen>
+    <dimen name="image_size_16dp">16dp</dimen>
+    <dimen name="image_size_32dp">32dp</dimen>
+    <dimen name="image_size_33dp">33dp</dimen>
+    <dimen name="image_size_35dp">35dp</dimen>
+    <dimen name="image_size_24dp">24dp</dimen>
+    <dimen name="image_size_28dp">28dp</dimen>
+    <dimen name="img_size_40dp">40dp</dimen>
+    <dimen name="img_size_41dp">41dp</dimen>
+    <dimen name="img_size_44dp">44dp</dimen>
+    <dimen name="img_size_48dp">48dp</dimen>
+    <dimen name="img_size_50dp">50dp</dimen>
+    <dimen name="img_size_51dp">51dp</dimen>
+    <dimen name="img_size_128dp">128dp</dimen>
+    <dimen name="img_size_200dp">200dp</dimen>
+
+    <dimen name="text_extra_line_spacing_0sp">0sp</dimen>
+
+    <dimen name="switch_min_width_38">38dp</dimen>
+
+    <dimen name="term_deposit_setting_item_divider_margin">80dp</dimen>
+    <dimen name="kanz_36sp">36sp</dimen>
+
+    <!-- Id scan intro -->
+    <dimen name="id_scan_intro_image_height">185dp</dimen>
+    <dimen name="id_scan_intro_box_height">250dp</dimen>
+    <dimen name="id_scan_selfie_intro_image_width">150dp</dimen>
+    <dimen name="id_scan_selfie_intro_image_height">300dp</dimen>
+
+    <dimen name="kanz_48sp">48sp</dimen>
+    <dimen name="kanz_38sp">38sp</dimen>
+    <dimen name="kanz_39sp">39sp</dimen>
+
+    <dimen name="item_shimmer_width">250dp</dimen>
+
+    <!-- cliq -->
+    <dimen name="cliq_mobile_country_code_chevron_dimen">12dp</dimen>
+    <dimen name="source_account_icon_size">24dp</dimen>
+    <dimen name="source_account_card_radius">6dp</dimen>
+    <dimen name="credit_card_apply_item_icon_size">30dp</dimen>
+    <dimen name="notification_screen_image_width">153dp</dimen>
+    <dimen name="notification_screen_image_height">102dp</dimen>
+
+    <!-- efawateer -->
+    <dimen name="dimen_minus_4dp">-4dp</dimen>
+    <dimen name="dimen_0dp">0dp</dimen>
+    <dimen name="dimen_1dp">1dp</dimen>
+    <dimen name="dimen_2dp">2dp</dimen>
+    <dimen name="dimen_4dp">4dp</dimen>
+    <dimen name="dimen_8dp">8dp</dimen>
+    <dimen name="dimen_10dp">10dp</dimen>
+    <dimen name="dimen_12dp">12dp</dimen>
+    <dimen name="dimen_14dp">14dp</dimen>
+    <dimen name="dimen_16dp">16dp</dimen>
+    <dimen name="dimen_18dp">18dp</dimen>
+    <dimen name="dimen_20dp">20dp</dimen>
+    <dimen name="dimen_23dp">23dp</dimen>
+    <dimen name="dimen_24dp">24dp</dimen>
+    <dimen name="dimen_28dp">28dp</dimen>
+    <dimen name="dimen_32dp">32dp</dimen>
+    <dimen name="dimen_34dp">34dp</dimen>
+    <dimen name="dimen_36dp">36dp</dimen>
+    <dimen name="dimen_40dp">40dp</dimen>
+    <dimen name="dimen_48dp">48dp</dimen>
+    <dimen name="dimen_55dp">55dp</dimen>
+    <dimen name="dimen_110dp">110dp</dimen>
+    <dimen name="dimen_120dp">120dp</dimen>
+    <dimen name="dimen_80dp">80dp</dimen>
+    <dimen name="dimen_90dp">90dp</dimen>
+    <fraction name="fraction_02">0.2</fraction>
+
+</resources>
